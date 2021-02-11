@@ -3,6 +3,43 @@
 
 ![Leek's github stats](https://github-readme-stats.vercel.app/api?username=leesk212&show_icons=true&hide_border=true&theme=dark) 
 
+Educational History
+
+ > Bachelor 
+ >> **Kwangwoon University**(Nowon-gu, Seoul)  
+ >> College of Software and Convergence  
+ >>> - Major: Computer information engineering  
+ >>> - Linked Major: BigData  
+ >>> - Status: Junior  
+ >>> - Term: 2016/03 ~ 
+
+Work Experience
+
+> InTheForest(Cyber Security Company) 
+>> - Program: Kwangwoon University Summer Short-Term Internship      
+>> - Project experience: Sysmon-EL-Python_PyQt
+>> - 2020/07/03 ~ 2020/08/25
+>  
+> [CSS Lab(Compuer Systems Security Lab)](https://sites.google.com/view/icseclab/home)
+>> - Program: Korea University Undergaduate reasearch student      
+>> - Project experience: Alert of Detection program(from PCM), Security
+>> - 2020/09/07 ~ 
+
+Languages
+> - C/C++:  ⭐⭐⭐⭐  
+> - Python: ⭐⭐⭐  
+> - JAVA:   ⭐⭐  
+> - MIPS:   ⭐⭐
+> - Matlab: ⭐
+> - Elasticsearch: ⭐⭐⭐   
+> - SQL:   ⭐⭐⭐
+>> - MySQL
+
+## **INTERESTS**
+> - Microarchitecture attack security
+> - System security 
+> - Big Data Processing 
+> - Pure application development
   
 <!--
 **leesk212/leesk212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
