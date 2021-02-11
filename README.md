@@ -3,7 +3,7 @@
 
 ![Leek's github stats](https://github-readme-stats.vercel.app/api?username=leesk212&show_icons=true&hide_border=true&theme=dark) 
 
-### 🌱 Educational History
+### 🌱 Educational History  
 <details><summary>Details</summary>
 <div markdown="1">  
 > Bachelor 
