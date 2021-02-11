@@ -10,8 +10,8 @@
  >> College of Software and Convergence  
  >>> - Major: Computer information engineering  
  >>> - Linked Major: BigData  
- >>> - Status: Junior  
- >>> - Term: 2016/03 ~ 
+ >>> - Status: Senior  
+ >>> - 2016/03 ~ 
 
 ### Work Experience
 
