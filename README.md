@@ -24,6 +24,7 @@
 >> - Program: Korea University Undergaduate reasearch student      
 >> - Project experience:  
 >>> * Alert of Detection program(from PCM)   
+>>> * BlackHat_2020(About A Complete Practical Approach to Malware Analysis and Memory Forensics)  
 >>> * microarchitecture side channel attack(on going)  
 >> - 2020/09/07 ~   
 
