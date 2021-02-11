@@ -33,9 +33,8 @@
 > - JAVA:   ⭐⭐  
 > - MIPS:   ⭐⭐
 > - Matlab: ⭐
-> - Elasticsearch: ⭐⭐⭐   
-> - SQL:   ⭐⭐⭐
->> - MySQL
+> - Elasticsearch: ⭐⭐  
+> - SQL:   ⭐⭐
 
 ### **INTERESTS**
 > - Microarchitecture attack security
