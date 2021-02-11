@@ -3,7 +3,7 @@
 
 ![Leek's github stats](https://github-readme-stats.vercel.app/api?username=leesk212&show_icons=true&hide_border=true&theme=dark) 
 
-### Educational History
+### 🌱 Educational History
 
  > Bachelor 
  >> **Kwangwoon University**(Nowon-gu, Seoul)  
@@ -13,7 +13,7 @@
  >>> - Status: Senior  
  >>> - 2016/03 ~ 
 
-### Work Experience
+### 🌱 Work Experience
 
 > InTheForest(Cyber Security Company) 
 >> - Program: Kwangwoon University Summer Short-Term Internship      
@@ -27,7 +27,7 @@
 >>> * microarchitecture side channel attack(on going)  
 >> - 2020/09/07 ~   
 
-### Languages
+### 🌱 Languages
 > - C/C++:  ⭐⭐⭐⭐  
 > - Python: ⭐⭐⭐  
 > - JAVA:   ⭐⭐  
@@ -36,7 +36,7 @@
 > - Elasticsearch: ⭐⭐  
 > - SQL:   ⭐⭐
 
-### **INTERESTS**
+### ⚡ **INTERESTS**
 > - Microarchitecture attack security
 > - System security 
 > - Big Data Processing 
