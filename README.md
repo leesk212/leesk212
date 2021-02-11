@@ -5,7 +5,7 @@
 
 ### 🌱 Educational History  
 ### <details><summary>🌱 Educational History</summary>
-<div markdown="1">  
+### <div markdown="1">  
  
 > Bachelor 
 >> **Kwangwoon University**(Nowon-gu, Seoul)  
@@ -17,8 +17,7 @@
 >>> * DB-man-man(web project)
 >>> * Deepsleepnet(on going)
 >> - 2016/03 ~   
-
-###</div></details>
+</div></details>
  
 ### 🌱 Work Experience
 
