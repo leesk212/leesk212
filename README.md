@@ -4,7 +4,8 @@
 ![Leek's github stats](https://github-readme-stats.vercel.app/api?username=leesk212&show_icons=true&hide_border=true&theme=dark) 
 
 ### 🌱 Educational History
-
+<details><summary>Details</summary>
+<div markdown="1">
  > Bachelor 
  >> **Kwangwoon University**(Nowon-gu, Seoul)  
  >> College of Software and Convergence  
@@ -15,6 +16,7 @@
  >>> * DB-man-man(web project)
  >>> * Deepsleepnet(on going)
  >> - 2016/03 ~ 
+</div></details>
  
 ### 🌱 Work Experience
 
