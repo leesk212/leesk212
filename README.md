@@ -41,7 +41,7 @@
 > - SQL:   ⭐⭐
 
 ### ⚡ **INTERESTS**
-> - Microarchitecture attack security
+> - Microarchitecture side channel attack security
 > - System security 
 > - Big Data Processing 
 > - Pure application development
