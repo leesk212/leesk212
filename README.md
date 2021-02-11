@@ -8,10 +8,10 @@
  > Bachelor 
  >> **Kwangwoon University**(Nowon-gu, Seoul)  
  >> College of Software and Convergence  
- >>> - Major: Computer information engineering  
- >>> - Linked Major: IoT  
- >>> - Status: Senior  
- >>> - 2016/03 ~ 
+ >> - Major: Computer information engineering  
+ >> - Linked Major: IoT  
+ >> - Status: Senior  
+ >> - 2016/03 ~ 
  >> - Project experience: 
  >>> * DB-man-man(web project)
  >>> * Deepsleepnet(on going)
