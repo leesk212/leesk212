@@ -22,7 +22,9 @@
 >  
 > [CSS Lab(Compuer Systems Security Lab)](https://sites.google.com/view/icseclab/home)
 >> - Program: Korea University Undergaduate reasearch student      
->> - Project experience: Alert of Detection program(from PCM), Security
+>> - Project experience:
+ * Alert of Detection program(from PCM) 
+ * microarchitecture side channel attack(on going)
 >> - 2020/09/07 ~ 
 
 ### Languages
