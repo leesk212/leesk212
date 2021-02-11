@@ -4,6 +4,25 @@
 ![Leek's github stats](https://github-readme-stats.vercel.app/api?username=leesk212&show_icons=true&hide_border=true&theme=dark) 
 
 
+### ⚡ **INTERESTS**
+> - Microarchitecture side channel attack security
+> - System security 
+> - Big Data Processing 
+> - Pure application development
+
+<details><summary>🌱 Languages</summary><div markdown="1">
+
+> - C/C++:  ⭐⭐⭐⭐  
+> - Python: ⭐⭐⭐  
+> - JAVA:   ⭐⭐  
+> - MIPS:   ⭐⭐
+> - Matlab: ⭐
+> - Elasticsearch: ⭐⭐  
+> - SQL:   ⭐⭐
+
+</div></details>
+
+
 <details><summary>🌱 Educational History</summary><div markdown="1">
  
 > Bachelor 
@@ -18,8 +37,8 @@
 >> - 2016/03 ~   
 </div></details>
  
-### 🌱 Work Experience
-
+<details><summary>🌱 Work Experience</summary><div markdown="1">
+ 
 > InTheForest(Cyber Security Company) 
 >> - Program: Kwangwoon University Summer Short-Term Internship      
 >> - Project experience: Sysmon-EL-Python_PyQt
@@ -33,21 +52,9 @@
 >>> * microarchitecture side channel attack(on going)  
 >> - 2020/09/07 ~   
 
-### 🌱 Languages
-> - C/C++:  ⭐⭐⭐⭐  
-> - Python: ⭐⭐⭐  
-> - JAVA:   ⭐⭐  
-> - MIPS:   ⭐⭐
-> - Matlab: ⭐
-> - Elasticsearch: ⭐⭐  
-> - SQL:   ⭐⭐
+</div></details>
 
-### ⚡ **INTERESTS**
-> - Microarchitecture side channel attack security
-> - System security 
-> - Big Data Processing 
-> - Pure application development
-  
+
 <!--
 **leesk212/leesk212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
