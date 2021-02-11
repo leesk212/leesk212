@@ -6,6 +6,7 @@
 ### 🌱 Educational History  
 <details><summary>Details</summary>
 <div markdown="1">  
+ 
 > Bachelor 
 >> **Kwangwoon University**(Nowon-gu, Seoul)  
 >> College of Software and Convergence  
@@ -16,6 +17,7 @@
 >>> * DB-man-man(web project)
 >>> * Deepsleepnet(on going)
 >> - 2016/03 ~   
+
 </div></details>
  
 ### 🌱 Work Experience
