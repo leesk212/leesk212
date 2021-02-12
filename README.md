@@ -1,16 +1,7 @@
 
 ### 🌱 It's time to get started.  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesk212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=freebsd.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<a href="https://github.com/leesk212">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leesk212&line_height=27&show_icons=true&hide_border=true&theme=dark" />
-</a>
-<a href="https://github.com/leesk212">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesk212&theme=dark&hide_border=true&exclude_repo=leesk212.github.io&langs_count=3" />
-</a>
-
-
-### ⚡ **INTERESTS**
+## ⚡ **INTERESTS**
 > - Microarchitecture side channel attack security
 > - System security 
 > - Big Data Processing 
@@ -59,6 +50,17 @@
 >> - 2020/09/07 ~   
 
 </div></details>
+
+
+## 💻 Github Stats
+
+<a href="https://github.com/leesk212">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leesk212&line_height=27&show_icons=true&hide_border=true&theme=dark" />
+</a>
+<a href="https://github.com/leesk212">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesk212&theme=dark&hide_border=true&exclude_repo=leesk212.github.io&langs_count=3" />
+</a>
+
 
 
 <!--
