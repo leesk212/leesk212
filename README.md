@@ -7,7 +7,7 @@
 </a>
 </p>
 
-## ⚡ **INTERESTS**
+<h2 align="center">⚡ **INTERESTS**</h2>
 > - Microarchitecture side channel attack security
 > - System security 
 > - Big Data Processing 
@@ -57,8 +57,7 @@
 
 </div></details>
 
-
-## 💻 Github Stats
+<h2 align="center">💻 Github Stats</h2>
 
 <a href="https://github.com/leesk212">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leesk212&line_height=27&show_icons=true&hide_border=true&theme=dark" />
