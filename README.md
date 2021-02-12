@@ -1,5 +1,8 @@
-<center> Welcome to my Github </center>  
+<p align="center">
 
+### Welcome to my Github
+
+</p>
 <p align="center">
 
 <a href="https://github.com/leesk212">
