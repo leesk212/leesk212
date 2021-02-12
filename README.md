@@ -7,7 +7,7 @@
 </a>
 </p>
 
-<h2 align="left">⚡ INTERESTS</h2>  
+<h2 align="left">⚡ Interests</h2>  
 
 > - Microarchitecture side channel attack security
 > - System security 
