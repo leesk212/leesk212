@@ -31,6 +31,7 @@
 
 
 <details><summary>🌱  Educational History</summary><div markdown="1">
+
 >   
 > * Bachelor 
 >> **Kwangwoon University**(Nowon-gu, Seoul)  
