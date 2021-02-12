@@ -31,7 +31,7 @@
 
 
 <details><summary>🌱  Educational History</summary><div markdown="1">
- 
+>   
 > * Bachelor 
 >> **Kwangwoon University**(Nowon-gu, Seoul)  
 >> College of Software and Convergence  
@@ -43,8 +43,10 @@
 >>> * Deepsleepnet(on going)
 >> - 2016/03 ~   
 > * Program
->> ** BlackHat_2020
->> About A Complete Practical Approach to Malware Analysis and Memory Forensics
+>> **BlackHat_2020**   
+>> About A Complete Practical Approach to Malware Analysis and Memory Forensics 
+
+
 
 </div></details>
  
