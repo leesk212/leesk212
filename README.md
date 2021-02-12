@@ -32,7 +32,7 @@
 
 <details><summary>🌱  Educational History</summary><div markdown="1">
  
-> Bachelor 
+> * Bachelor 
 >> **Kwangwoon University**(Nowon-gu, Seoul)  
 >> College of Software and Convergence  
 >> - Major: Computer information engineering  
@@ -42,20 +42,23 @@
 >>> * [DB-man-man(web project)](https://github.com/0xF4D3C0D3/kw-db-project-2020)
 >>> * Deepsleepnet(on going)
 >> - 2016/03 ~   
+> * Program
+>> ** BlackHat_2020
+>> About A Complete Practical Approach to Malware Analysis and Memory Forensics
+
 </div></details>
  
 <details><summary>🌱  Work Experience</summary><div markdown="1">
  
-> InTheForest(Cyber Security Company) 
+> * InTheForest(Cyber Security Company) 
 >> - Program: Kwangwoon University Summer Short-Term Internship      
 >> - Project experience: Sysmon-EL-Python_PyQt
 >> - 2020/07/03 ~ 2020/08/25
 >  
-> [CSS Lab(Compuer Systems Security Lab)](https://sites.google.com/view/icseclab/home)
+> * [CSS Lab(Compuer Systems Security Lab)](https://sites.google.com/view/icseclab/home)
 >> - Program: Korea University Undergaduate reasearch student      
 >> - Project experience:  
 >>> * Alert of Detection program(from PCM)   
->>> * BlackHat_2020(About A Complete Practical Approach to Malware Analysis and Memory Forensics)  
 >>> * microarchitecture side channel attack(on going)  
 >> - 2020/09/07 ~   
 
