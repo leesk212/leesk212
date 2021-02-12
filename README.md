@@ -44,10 +44,11 @@
 >>> * Deepsleepnet(on going)
 >> - 2016/03 ~   
 > * Program
->> **BlackHat_2020**   
+>> - **BlackHat_2020**   
 >> About A Complete Practical Approach to Malware Analysis and Memory Forensics   
->> **IDEC_2021**   
->> GPU 하드웨어에 대한 이해 및 CUDA 프로그래밍 & 암호알고리즘 이론과 실제 
+>> - **IDEC_2021**   
+>>> GPU 하드웨어에 대한 이해 및 CUDA 프로그래밍  
+>>> 암호알고리즘 이론과 실제  
 
 
 
