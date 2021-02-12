@@ -1,5 +1,5 @@
 
-### 🌱 It's time to get started.  
+### 🌱  It's time to get started.  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesk212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=freebsd.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## ⚡ **INTERESTS**
 > - Microarchitecture side channel attack security
@@ -7,7 +7,7 @@
 > - Big Data Processing 
 > - Pure application development
 
-<details><summary>🌱 Languages</summary><div markdown="1">
+<details><summary>🌱  Languages</summary><div markdown="1">
 
 > - C/C++:  ⭐⭐⭐⭐  
 > - Python: ⭐⭐⭐  
@@ -20,7 +20,7 @@
 </div></details>
 
 
-<details><summary>🌱 Educational History</summary><div markdown="1">
+<details><summary>🌱  Educational History</summary><div markdown="1">
  
 > Bachelor 
 >> **Kwangwoon University**(Nowon-gu, Seoul)  
@@ -34,7 +34,7 @@
 >> - 2016/03 ~   
 </div></details>
  
-<details><summary>🌱 Work Experience</summary><div markdown="1">
+<details><summary>🌱  Work Experience</summary><div markdown="1">
  
 > InTheForest(Cyber Security Company) 
 >> - Program: Kwangwoon University Summer Short-Term Internship      
