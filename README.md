@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leesk212&show_icons=true&hide_border=true&theme=dark" />
 </a>
 <a href="https://github.com/leesk212">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesk212&theme=dark&hide_border=true&exclude_repo=leesk212.github.io&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesk212&theme=dark&hide_border=true&exclude_repo=leesk212.github.io&langs_count=3" />
 </a>
 
 
