@@ -14,6 +14,17 @@
 > - Big Data Processing 
 > - Pure application development
 
+<h2 align="center">💻 Github Stats</h2>
+
+<a href="https://github.com/leesk212">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leesk212&line_height=27&show_icons=true&hide_border=true&theme=dark" />
+</a>
+<a href="https://github.com/leesk212">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesk212&theme=dark&hide_border=true&exclude_repo=leesk212.github.io&langs_count=3" />
+</a>
+
+
+
 <details><summary>🌱  Languages</summary><div markdown="1">
 
 > - C/C++:  ⭐⭐⭐⭐  
@@ -57,15 +68,6 @@
 >> - 2020/09/07 ~   
 
 </div></details>
-
-<h2 align="center">💻 Github Stats</h2>
-
-<a href="https://github.com/leesk212">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leesk212&line_height=27&show_icons=true&hide_border=true&theme=dark" />
-</a>
-<a href="https://github.com/leesk212">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesk212&theme=dark&hide_border=true&exclude_repo=leesk212.github.io&langs_count=3" />
-</a>
 
 
 
