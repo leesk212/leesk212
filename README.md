@@ -40,6 +40,7 @@
 >> - Linked Major: IoT  
 >> - Status: Senior  
 >> - Project experience: 
+>>> * [FTP server(socket programming)](https://github.com/leesk212/Linux/tree/master/SystemProgramming)
 >>> * [DB-man-man(web project)](https://github.com/0xF4D3C0D3/kw-db-project-2020)
 >>> * Deepsleepnet(on going)
 >> - 2016/03 ~   
