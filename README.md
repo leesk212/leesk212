@@ -67,6 +67,9 @@
 >> - Project experience:  
 >>> * [(private)Alert of Detection program(from PCM)](https://github.com/leesk212/kakao_api)   
 >>> * Microarchitecture side channel attack(on going)
+>>>> * Review of Flush+Reload paper
+>>>> * Review of Meltdown paper
+>>>> * Review of ZombieLoad paper
 >>>> * [(private)Measurement of transient instruction in meltdown and Zombieload attack](https://github.com/leesk212/Measurement_of_transient_instruction)  
 >> - 2020/09/07 ~   
 
