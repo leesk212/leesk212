@@ -70,7 +70,7 @@
 >>>> * (private)Review of Flush+Reload paper & Implementation of Flush+Reload attack (to gnupg)
 >>>> * (private)Review of Meltdown paper & Implementation of Meltdown attack
 >>>> * (private)Review of ZombieLoad paper & Implementation of ZombieLoad attack
->>>> * [(private)Measurement of transient instruction in meltdown and Zombieload attack](https://github.com/leesk212/Measurement_of_transient_instruction)  
+>>>> * [(private)Measurement of transient instruction capability in meltdown and Zombieload attack](https://github.com/leesk212/Measurement_of_transient_instruction)  
 >> - 2020/09/07 ~   
 
 </div></details>
