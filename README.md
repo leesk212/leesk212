@@ -78,7 +78,9 @@
 
 </div></details>
 
-<br>
+
+<h2 align="left">💻 Github Stats</h2>
+
 
 <details><summary>💬  Blog Bookmark</summary><div markdown="1">
 
@@ -188,7 +190,6 @@
 </div></details>
 
 
-<h2 align="left">💻 Github Stats</h2>
 
 <a href="https://github.com/leesk212">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leesk212&line_height=27&show_icons=true&hide_border=true&theme=dark" />
