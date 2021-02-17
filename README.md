@@ -67,9 +67,9 @@
 >> - Project experience:  
 >>> * [(private)Alert of Detection program(from PCM)](https://github.com/leesk212/kakao_api)   
 >>> * Microarchitecture side channel attack(on going)
->>>> * (private)Review of Flush+Reload paper & Implementation of Flush+Reload attack (to gnupg)
+>>>> * [(private)Review of Flush+Reload paper & Implementation of Flush+Reload attack (to gnupg-1.4.13)](https://github.com/leesk212/FLUSH-RELOAD-Attack-Implementation)
 >>>> * (private)Review of Meltdown paper & Implementation of Meltdown attack
->>>> * (private)Review of ZombieLoad paper & Implementation of ZombieLoad attack
+>>>> * [(private)Review of ZombieLoad paper & Implementation of ZombieLoad attack](https://github.com/leesk212/ZombieLoad-Implementation)
 >>>> * [(private)Measurement of transient instruction capability in meltdown and Zombieload attack](https://github.com/leesk212/Measurement_of_transient_instruction)  
 >>>> * * [(private)Result](https://github.com/leesk212/Result)
 >> - 2020/09/07 ~   
