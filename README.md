@@ -78,7 +78,9 @@
 
 </div></details>
 
-<details><summary>🌱  Blog Bookmark</summary><div markdown="1">
+<br>
+
+<details><summary>💬  Blog Bookmark</summary><div markdown="1">
 
 ## AI
 ### Deep Learning
