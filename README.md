@@ -68,7 +68,7 @@
 >> - Program: Korea University Undergaduate reasearch student      
 >> - Project experience:  
 >>> * Alert of Detection program(from PCM)   
->>>> * [(private)Related Code](https://github.com/leesk212/kakao_api)   
+>>>> * [(private)Detection program and KakaoTalk server linkage program](https://github.com/leesk212/kakao_api)   
 >>> * Microarchitecture side channel attack(on going)
 >>>> * [(private)Review of Flush+Reload paper & Implementation of Flush+Reload attack (to gnupg-1.4.13)](https://github.com/leesk212/FLUSH-RELOAD-Attack-Implementation)
 >>>> * [Review of Flush+Flush paper](https://leesk212.github.io/paper-Flush+Flush_A_Fast_and_Stealthy_Cache_Attack/)
