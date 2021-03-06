@@ -37,7 +37,6 @@
 >> **Kwangwoon University**(Nowon-gu, Seoul)  
 >> College of Software and Convergence  
 >> - Major: Computer information engineering  
->> - Linked Major: IoT  
 >> - Status: Senior  
 >> - Project experience: 
 >>> * [FTP server(socket programming)](https://github.com/leesk212/Linux/tree/master/SystemProgramming)
