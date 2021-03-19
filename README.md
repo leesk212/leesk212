@@ -53,7 +53,7 @@
 >> - [**IDEC_2021**](https://github.com/leesk212/2021_IDEC)   
 >> GPU 하드웨어에 대한 이해 및 CUDA 프로그래밍  
 >> 암호알고리즘 이론과 실제  
->> - [**(private)System Security_korea_Univ**]()
+>> - [**(private)System Security_korea_Univ**](https://github.com/leesk212/System-Security)
 
 
 
