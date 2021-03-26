@@ -41,13 +41,13 @@
 >> - Project experience: 
 >>> * [FTP server(socket programming)](https://github.com/leesk212/Linux/tree/master/SystemProgramming)
 >>> * [DB-man-man(web project)](https://github.com/0xF4D3C0D3/kw-db-project-2020)
->>> * * [kakao_login_api_by_python](https://github.com/leesk212/kakao_login_api_by_python)
->>> * * [Demonstate video](https://www.youtube.com/watch?v=4eEvMKFw9_g)
+>>>   * [kakao_login_api_by_python](https://github.com/leesk212/kakao_login_api_by_python)
+>>>   * [Demonstate video](https://www.youtube.com/watch?v=4eEvMKFw9_g)
 >>> * Deepsleepnet(on going)
 >>> * Web Hacking
->>> * * burpsuite with meltasploitable2
+>>>   * burpsuite with meltasploitable2
 >>> * Compiler
->>> * * [(private)infix2postfix_by_python]()
+>>>   * [(private)infix2postfix_by_python]()
 >> - 2016/03 ~   
 > * Program
 >> - [**BlackHat_2020**](https://github.com/leesk212/BlackHat_2020)   
