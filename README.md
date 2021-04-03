@@ -22,7 +22,7 @@
   
 ![1-01-cyber-threat-taxonomy-tree](https://user-images.githubusercontent.com/67637935/113492263-37ea0b80-9511-11eb-9a74-ce1fa462382f.png)
 
-</div></details>. 
+</div></details>
 
 <details><summary>🌱  Languages</summary><div markdown="1">
 
