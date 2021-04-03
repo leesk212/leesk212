@@ -12,7 +12,7 @@
 > - Microarchitecture side channel attack security
 > - System security 
 > - Machine Learning
-> - Pure application development
+> - Python compiler
 
 
 <h2 align="left"> 🔭 Profile</h2>
