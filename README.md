@@ -47,7 +47,7 @@
 >>> * Deepsleepnet(on going)
 >>> * Web Hacking
 >>>   * [(private)burpsuite with meltasploitable2](https://github.com/leesk212/Web-hacking)
->>>   * [(private)matasploit](https://github.com/leesk212/Web-hacking)
+>>>   * [(private)metasploit](https://github.com/leesk212/Web-hacking)
 >>> * Compiler
 >>>   * [(private)infix2postfix_by_python](https://github.com/leesk212/compiler/tree/main/infix2postfix)
 >>> * Machine Learning
