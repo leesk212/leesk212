@@ -47,8 +47,9 @@
 >>> * Deepsleepnet(on going)
 >>> * Web Hacking
 >>>   * [(private)burpsuite with meltasploitable2](https://github.com/leesk212/Web-hacking)
->>>   * [(private)wfuzz](https://github.com/leesk212/Web-hacking)   
->>>   * [(private)metasploit](https://github.com/leesk212/Web-hacking)
+>>>   * [(private)wfuzz](https://github.com/leesk212/Web-hacking/tree/main/wfuzz)   
+>>>   * [(private)croess-site-scripting attack](https://github.com/leesk212/Web-hacking/tree/main/cross-site-scripting-attack)
+>>>   * [(private)metasploit](https://github.com/leesk212/Web-hacking/tree/main/metasploit)
 >>> * Compiler
 >>>   * [(private)infix2postfix_by_python](https://github.com/leesk212/compiler/tree/main/infix2postfix)
 >>> * Machine Learning
