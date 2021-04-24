@@ -19,7 +19,7 @@
 > - Python: ⭐⭐⭐  
 > - JAVA:   ⭐⭐  
 > - MIPS:   ⭐⭐
-> - Matlab: ⭐
+> - MATLAB: ⭐
 > - Elasticsearch: ⭐⭐  
 > - SQL:   ⭐⭐
 
