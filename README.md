@@ -47,7 +47,7 @@
 >>> * Web Hacking
 >>>   * [(private)burpsuite with meltasploitable2](https://github.com/leesk212/Web-hacking)
 >>>   * [(private)wfuzz](https://github.com/leesk212/Web-hacking/tree/main/wfuzz)   
->>>   * [(private)croess-site-scripting attack](https://github.com/leesk212/Web-hacking/tree/main/cross-site-scripting-attack)
+>>>   * [(private)cross-site-scripting attack](https://github.com/leesk212/Web-hacking/tree/main/cross-site-scripting-attack)
 >>>   * [(private)metasploit](https://github.com/leesk212/Web-hacking/tree/main/metasploit)
 >> - 2016/03 ~   
 > * Program
