@@ -37,7 +37,8 @@
 >> - Project experience: 
 >>> * Compiler
 >>>   * [(private)infix2postfix_by_python](https://github.com/leesk212/compiler/tree/main/infix2postfix)
->>> * [DB-man-man(web project)](https://github.com/0xF4D3C0D3/kw-db-project-2020)
+>>> * Database and Application 
+>>>   * [Web project name:디비만만](https://github.com/0xF4D3C0D3/kw-db-project-2020)
 >>>   * [kakao_login_api_by_python](https://github.com/leesk212/kakao_login_api_by_python)
 >>>   * [Demonstate video](https://www.youtube.com/watch?v=4eEvMKFw9_g)
 >>> * [Deepsleepnet(deepLearning project)](https://github.com/leesk212/new_deepsleepnet)
