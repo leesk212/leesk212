@@ -44,9 +44,11 @@
 >>> * [Deepsleepnet(deepLearning project)](https://github.com/leesk212/new_deepsleepnet)
 >>> * Docker
 >>>   * [(private)project](https://github.com/leesk212/4_1/tree/main/ISA/Docker)
->>> * [FTP server(socket programming)](https://github.com/leesk212/Linux/tree/master/SystemProgramming)
+>>> * Embedded System S/W Design
 >>> * Machine Learning
 >>>   * [(private)ML_with_Security](https://github.com/leesk212/ML_with_Security)  
+>>> * System Programming  
+>>>   * [FTP server(socket programming)](https://github.com/leesk212/Linux/tree/master/SystemProgramming) 
 >>> * Web Hacking
 >>>   * [(private)burpsuite with meltasploitable2](https://github.com/leesk212/Web-hacking)
 >>>   * [(private)wfuzz](https://github.com/leesk212/Web-hacking/tree/main/wfuzz)   
