@@ -92,6 +92,9 @@
 >>>>   * [(private)Meltdown2Zombieload PoC](https://github.com/leesk212/Meltdown2Zombieload)
 >>>>   * [(private)Result](https://github.com/leesk212/Result)
 >>>>   * [(private)Paper work](https://github.com/leesk212/private_post/tree/master/Paperwork/Measurement%20of%20Transient%20instruction)
+>>> * ETC
+>>>>  * [(private)nsr](https://github.com/taehunk/NSR-SMTP)
+>>>>  * [(private)msrprobe](https://github.com/taehunk/zinc)
 >> - 2020/09/07 ~   
 
 </div></details>
