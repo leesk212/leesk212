@@ -51,10 +51,10 @@
 >>> * System Programming  
 >>>   * [FTP server(socket programming)](https://github.com/leesk212/Linux/tree/master/SystemProgramming) 
 >>> * Web Hacking
->>>   * [(private)burpsuite with meltasploitable2](https://github.com/leesk212/Web-hacking)
->>>   * [(private)wfuzz](https://github.com/leesk212/Web-hacking/tree/main/wfuzz)   
->>>   * [(private)cross-site-scripting attack](https://github.com/leesk212/Web-hacking/tree/main/cross-site-scripting-attack)
->>>   * [(private)metasploit](https://github.com/leesk212/Web-hacking/tree/main/metasploit)
+>>>   * [(private)burpsuite with meltasploitable2](https://github.com/leesk212/4_1/tree/main/ISA/Web-hacking)
+>>>   * [(private)wfuzz](https://github.com/leesk212/4_1/tree/main/ISA/Web-hacking/wfuzz)   
+>>>   * [(private)cross-site-scripting attack](https://github.com/leesk212/4_1/tree/main/ISA/Web-hacking/cross-site-scripting-attack)
+>>>   * [(private)metasploit](https://github.com/leesk212/4_1/tree/main/ISA/Web-hacking/metasploit)
 >> - 2016/03 ~   
 > * Program
 >> - [**BlackHat_2020**](https://github.com/leesk212/BlackHat_2020)   
