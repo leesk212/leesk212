@@ -66,6 +66,8 @@
 >> - [**(private)System Security_korea_Univ**](https://github.com/leesk212/System-Security)
 >> - NetSec2021
 >>    * [(private)Practice of deepfake_analyzer](https://github.com/leesk212/private_post/tree/master/NetSec-Deepfake)
+>> - Blackhat_ASIA_20201
+>>    * [Apple Neural Engine Internal: From ML Algorithm to HW Registers]( )
 
 
 </div></details>
