@@ -67,7 +67,7 @@
 >> - NetSec2021
 >>    * [(private)Practice of deepfake_analyzer](https://github.com/leesk212/private_post/tree/master/NetSec-Deepfake)
 >> - Blackhat_ASIA_20201
->>    * [Apple Neural Engine Internal: From ML Algorithm to HW Registers]( )
+>>    * [Apple Neural Engine Internal: From ML Algorithm to HW Registers](https://github.com/leesk212/BlackHat_2020/tree/main/BlackHat_2021_briefing)
 
 
 </div></details>
