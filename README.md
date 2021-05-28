@@ -12,6 +12,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/profile-of-seokmin-lee/)](https://www.linkedin.com/in/profile-of-seokmin-lee/)
 
 </div>
+
 ---------------
   
 <h2 align="left">⚡ Interests</h2>  
