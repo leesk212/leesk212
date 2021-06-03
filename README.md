@@ -108,7 +108,7 @@
 >>>>   * [(private)Meltdown2Zombieload PoC](https://github.com/leesk212/Meltdown2Zombieload)
 >>>>   * [(private)Result](https://github.com/leesk212/Result)
 >>>>   * [(private)Paper work](https://github.com/leesk212/private_post/tree/master/Paperwork/Measurement%20of%20Transient%20instruction)
->>>>   * [(private)MTIC](https://github.com/leesk212/MTIC)
+>>>>   * [(private)MTIC Proof-of-Concept](https://github.com/leesk212/MTIC)
 >>> * National Security Research Project
 >>>>   * [(private)tool-kit](https://github.com/taehunk/NSR-SMTP)
 >>> * ETC
