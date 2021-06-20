@@ -18,9 +18,8 @@
 <h2 align="left">⚡ Interests</h2>  
 
 > - Microarchitecture side channel attack security
-> - System security 
-> - Machine Learning
-> - Python compiler
+> - A.I. Security
+> - Python 
 
 
 <h2 align="left"> 🔭 Profile</h2>
