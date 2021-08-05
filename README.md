@@ -114,7 +114,7 @@
 >>> * National Security Research Project
 >>>>   * [(private)tool-kit](https://github.com/taehunk/NSR-SMTP)
 >>>>   * [(private)DNSlookup](https://github.com/leesk212/private_post/blob/master/NSR/Mail_service/DNSQUERYCODE)
->>>>   * [(private)DNSlookup_code](https://github.com/leesk212/NSR_project)
+>>>>   * [(private)TLSRPT](https://github.com/leesk212/TLSRPT)
 >>> * ETC
 >>>>   * [(private)zinc](https://github.com/taehunk/zinc)
 >> - 2020/09/07 ~   
