@@ -124,17 +124,6 @@
 
 ## 📖  Solved.ac State 
 <div align=center>
-<a href="https://solved.ac/leesk212">
-  <img align="center" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=leesk212" />
-</a>
-
-<p>
-<center>
-<a href="https://colab.research.google.com/">
-  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leesk212" />
-</a>
-</center>
-<p>
 <center>
 
 <a href="https://solved.ac/class">
@@ -255,10 +244,10 @@
 
 
 
-<a href="https://github.com/leesk212">
+<a href="https://colab.research.google.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leesk212&line_height=27&show_icons=true&hide_border=true&theme=dark" />
 </a>
-<a href="https://github.com/leesk212">
+<a href="https://solved.ac/leesk212">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesk212&theme=dark&hide_border=true&exclude_repo=leesk212.github.io&langs_count=3" />
 </a>
 
