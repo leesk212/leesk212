@@ -123,14 +123,16 @@
 
 
 ## 📖  Solved.ac State 
-
+<center>
 <a href="https://solved.ac/leesk212">
   <img align="center" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=leesk212" />
 </a>
-
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=leesk212)]()
-[![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=leesk212)](https://solved.ac/class)
-
+<a href="https://solved.ac/class">
+  <img align="center" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=leesk212" />
+</a>
+</center>
+  
+  
 <h2 align="left">💻 Github Stats</h2>
 
 
