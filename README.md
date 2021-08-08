@@ -122,8 +122,8 @@
 </div></details>
 
 
-## 🔎  Solved.ac State [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=leesk212)](https://solved.ac/leesk212)
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=leesk212)
+## [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=leesk212)](https://solved.ac/leesk212)  Solved.ac State 
+[![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=leesk212)](https://solved.ac/class)
 
 
 <h2 align="left">💻 Github Stats</h2>
