@@ -123,7 +123,7 @@
 
 
 ## 💻  Solved.ac State
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={leesk212})](https://solved.ac/{leesk212})
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=leesk212)](https://solved.ac/leesk212)
 
 <h2 align="left">💻 Github Stats</h2>
 
