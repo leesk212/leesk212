@@ -123,10 +123,12 @@
 
 
 ## 📖  Solved.ac State 
-<center>
 <a href="https://solved.ac/leesk212">
   <img align="center" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=leesk212" />
 </a>
+
+<center>
+
 <a href="https://solved.ac/class">
   <img align="center" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=leesk212" />
 </a>
