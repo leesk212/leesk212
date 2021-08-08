@@ -126,7 +126,7 @@
 <a href="https://solved.ac/leesk212">
   <img align="center" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=leesk212" />
 </a>
-
+<p>
 <center>
 
 <a href="https://solved.ac/class">
