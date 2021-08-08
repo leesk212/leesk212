@@ -123,9 +123,11 @@
 
 
 ## 📖  Solved.ac State 
+<div align=center>
 <a href="https://solved.ac/leesk212">
   <img align="center" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=leesk212" />
 </a>
+</div>
 <p>
 <center>
 
