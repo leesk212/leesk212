@@ -129,12 +129,12 @@
 </a>
 
 <p>
-  
+<center>
 <a href="https://colab.research.google.com/">
   <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=leesk212" />
 </a>
-
-<p
+</center>
+<p>
 <center>
 
 <a href="https://solved.ac/class">
