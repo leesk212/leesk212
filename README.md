@@ -127,7 +127,7 @@
 <a href="https://solved.ac/leesk212">
   <img align="center" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=leesk212" />
 </a>
-</div>
+
 <p>
 <center>
 
@@ -135,7 +135,7 @@
   <img align="center" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=leesk212" />
 </a>
 </center>
-  
+</div>
   
 <h2 align="left">💻 Github Stats</h2>
 
