@@ -122,7 +122,7 @@
 </div></details>
 
 
-## 📖  Solved.ac State 
+## 📖  Solved.ac Stats
 <div align=center>
 <center>
 
