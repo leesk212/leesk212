@@ -135,11 +135,10 @@
 <h2 align="left">💻 Github Stats</h2>
 
 
-<details><summary 🔖 Bookmark</summary>
-<div markdown="1">
+<details><summary 🔖 Bookmark</summary><div markdown="1">
 
-# coding-test
-* ![삼성 Expert Acadamey](https://swexpertacademy.com/main/capacityTest/main.do)
+  # coding-test
+  * ![삼성 Expert Acadamey](https://swexpertacademy.com/main/capacityTest/main.do)
 
 
 </div></details>
