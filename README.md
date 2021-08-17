@@ -149,7 +149,9 @@
 
 # Coding-Test
 * [sw expert academic (삼성)](https://swexpertacademy.com/main/capacityTest/main.do)
-
+# DeepLearning
+## GAN
+* <https://m.blog.naver.com/PostView.naver?blogId=euleekwon&logNo=221559102854&targetKeyword=&targetRecommendationCode=1>
 
 </div></details>
   
