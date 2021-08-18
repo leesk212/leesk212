@@ -147,6 +147,9 @@
 
 <details><summary> 📑 Bookmark</summary><div markdown="1">
 
+# ETC
+* 온라인책 무료: <https://wikidocs.net/>
+
 # Coding-Test
 * [sw expert academic (삼성)](https://swexpertacademy.com/main/capacityTest/main.do)
 # DeepLearning
