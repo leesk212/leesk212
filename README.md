@@ -115,6 +115,8 @@
 >>>>   * [(private)tool-kit](https://github.com/taehunk/NSR-SMTP)
 >>>>   * [(private)DNSlookup](https://github.com/leesk212/private_post/blob/master/NSR/Mail_service/DNSQUERYCODE)
 >>>>   * [(private)TLSRPT](https://github.com/leesk212/TLSRPT)
+>>> * 2021 HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회
+>>>>   * [(private)2021-HAICon2021](https://github.com/leesk212/2021-HAICon2021)
 >>> * ETC
 >>>>   * [(private)zinc](https://github.com/taehunk/zinc)
 >> - 2020/09/07 ~   
