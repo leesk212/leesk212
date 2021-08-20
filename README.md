@@ -157,7 +157,7 @@
 # DeepLearning
 ## GAN
 * <https://m.blog.naver.com/PostView.naver?blogId=euleekwon&logNo=221559102854&targetKeyword=&targetRecommendationCode=1>
-
+* <https://comlini8-8.tistory.com/9>
 </div></details>
   
   
