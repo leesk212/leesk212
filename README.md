@@ -83,9 +83,10 @@
 >>>>   * [(private)TLSRPT](https://github.com/leesk212/TLSRPT)
 >>> * ETC
 >>>>   * [(private)zinc](https://github.com/taehunk/zinc)
+>> - 2020/09/07 ~   
 > * 2021 HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회
 >>   * [(private)2021-HAICon2021](https://github.com/leesk212/2021-HAICon2021)
->> - 2020/09/07 ~   
+
 
 </div></details>
 
