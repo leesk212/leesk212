@@ -27,16 +27,17 @@
 * 백재우, __이석민__, 이영준, 이호찬, 박철수 “EEG 단체널 기반 Inception 네트워크와 순환 신경망을 결합한 자동 수면 단계 분류기”, 대한전자공학회 하계학술대회, 제주, 2021.06
 
 <h2 align="left"> 🔭 Profile</h2>
-<details><summary>🌱  Languages</summary><div markdown="1">
+<details><summary>🌱  Skills</summary><div markdown="1">
 
-> - C/C++:  ⭐⭐⭐⭐  
-> - Python: ⭐⭐⭐  
-> - JAVA:   ⭐⭐  
-> - MIPS:   ⭐⭐
-> - MATLAB: ⭐
-> - Elasticsearch: ⭐⭐  
-> - SQL:   ⭐⭐
-
+<p align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40"/> 
+</p>
+  
+  
 </div></details>
 
 
