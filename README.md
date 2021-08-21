@@ -54,14 +54,8 @@
 
 <details><summary>🌱  Projects</summary><div markdown="1">
  
-> * InTheForest(Cyber Security Company) 
->> - Program: Kwangwoon University Summer Short-Term Internship      
->> - Project experience: [Sysmon-EL-Python_PyQt](https://github.com/leesk212/Sysmon-EL-Python_PyQt)
->> - 2020/07/03 ~ 2020/08/25
-> * Hanyang Cyber Univ project
->> - Program: Outsourcing
->> - Project experience: [(private)User dependent reactive program](https://github.com/leesk212/HanyangUniv_project)
->> - 2020/08/26 ~ 2020/09/05 
+> * 2021 HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회
+>>   * [(private)2021-HAICon2021](https://github.com/leesk212/2021-HAICon2021)
 > * [CSS Lab(Compuer Systems Security Lab)](https://sites.google.com/view/icseclab/home)
 >> - Program: Korea University Undergaduate reasearch student      
 >> - Project experience:  
@@ -84,9 +78,14 @@
 >>> * ETC
 >>>>   * [(private)zinc](https://github.com/taehunk/zinc)
 >> - 2020/09/07 ~   
-> * 2021 HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회
->>   * [(private)2021-HAICon2021](https://github.com/leesk212/2021-HAICon2021)
-
+> * Hanyang Cyber Univ project
+>> - Program: Outsourcing
+>> - Project experience: [(private)User dependent reactive program](https://github.com/leesk212/HanyangUniv_project)
+>> - 2020/08/26 ~ 2020/09/05 
+> * InTheForest(Cyber Security Company) 
+>> - Program: Kwangwoon University Summer Short-Term Internship      
+>> - Project experience: [Sysmon-EL-Python_PyQt](https://github.com/leesk212/Sysmon-EL-Python_PyQt)
+>> - 2020/07/03 ~ 2020/08/25
 
 </div></details>
 
