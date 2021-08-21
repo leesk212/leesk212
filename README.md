@@ -52,7 +52,7 @@
 </div></details>
 
 
-<details><summary>🌱  Project</summary><div markdown="1">
+<details><summary>🌱  Projects</summary><div markdown="1">
  
 > * InTheForest(Cyber Security Company) 
 >> - Program: Kwangwoon University Summer Short-Term Internship      
