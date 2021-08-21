@@ -51,6 +51,49 @@
 
 </div></details>
 
+
+<details><summary>🌱  Project</summary><div markdown="1">
+ 
+> * InTheForest(Cyber Security Company) 
+>> - Program: Kwangwoon University Summer Short-Term Internship      
+>> - Project experience: [Sysmon-EL-Python_PyQt](https://github.com/leesk212/Sysmon-EL-Python_PyQt)
+>> - 2020/07/03 ~ 2020/08/25
+> * Hanyang Cyber Univ project
+>> - Program: Outsourcing
+>> - Project experience: [(private)User dependent reactive program](https://github.com/leesk212/HanyangUniv_project)
+>> - 2020/08/26 ~ 2020/09/05 
+> * [CSS Lab(Compuer Systems Security Lab)](https://sites.google.com/view/icseclab/home)
+>> - Program: Korea University Undergaduate reasearch student      
+>> - Project experience:  
+>>> * Alert of Detection program(from PCM)   
+>>>> * [(private)Detection program and KakaoTalk server linkage program](https://github.com/leesk212/kakao_api)   
+>>> * Microarchitecture side channel attack
+>>>> * [(private)Review of Flush+Reload paper & Implementation of Flush+Reload attack (to gnupg-1.4.13)](https://github.com/leesk212/FLUSH-RELOAD-Attack-Implementation)
+>>>> * [Review of Flush+Flush paper](https://leesk212.github.io/paper-Flush+Flush_A_Fast_and_Stealthy_Cache_Attack/)
+>>>> * (private)Review of Meltdown paper & Implementation of Meltdown attack
+>>>> * [(private)Review of ZombieLoad paper & Implementation of ZombieLoad attack](https://github.com/leesk212/ZombieLoad-Implementation)
+>>>> * [(private)Quantitative Analysis on Attack Capacity in Meltdown-type Attacks](https://github.com/leesk212/Measurement_of_transient_instruction)  
+>>>>   * [(private)Meltdown2Zombieload PoC](https://github.com/leesk212/Meltdown2Zombieload)
+>>>>   * [(private)Result](https://github.com/leesk212/Result)
+>>>>   * [(private)Paper work](https://github.com/leesk212/private_post/tree/master/Paperwork/Measurement%20of%20Transient%20instruction)
+>>>>   * [(private)MTIC Proof-of-Concept](https://github.com/leesk212/MTIC)
+>>> * National Security Research Project
+>>>>   * [(private)tool-kit](https://github.com/taehunk/NSR-SMTP)
+>>>>   * [(private)DNSlookup](https://github.com/leesk212/private_post/blob/master/NSR/Mail_service/DNSQUERYCODE)
+>>>>   * [(private)TLSRPT](https://github.com/leesk212/TLSRPT)
+>>> * 2021 HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회
+>>>>   * [(private)2021-HAICon2021](https://github.com/leesk212/2021-HAICon2021)
+>>> * ETC
+>>>>   * [(private)zinc](https://github.com/taehunk/zinc)
+>> - 2020/09/07 ~   
+
+</div></details>
+
+
+
+
+
+
 <details><summary>🌱  Educational History</summary><div markdown="1">
 
 >   
@@ -97,42 +140,7 @@
 
 </div></details>
  
-<details><summary>🌱  Work Experience</summary><div markdown="1">
- 
-> * InTheForest(Cyber Security Company) 
->> - Program: Kwangwoon University Summer Short-Term Internship      
->> - Project experience: [Sysmon-EL-Python_PyQt](https://github.com/leesk212/Sysmon-EL-Python_PyQt)
->> - 2020/07/03 ~ 2020/08/25
-> * Hanyang Cyber Univ project
->> - Program: Outsourcing
->> - Project experience: [(private)User dependent reactive program](https://github.com/leesk212/HanyangUniv_project)
->> - 2020/08/26 ~ 2020/09/05 
-> * [CSS Lab(Compuer Systems Security Lab)](https://sites.google.com/view/icseclab/home)
->> - Program: Korea University Undergaduate reasearch student      
->> - Project experience:  
->>> * Alert of Detection program(from PCM)   
->>>> * [(private)Detection program and KakaoTalk server linkage program](https://github.com/leesk212/kakao_api)   
->>> * Microarchitecture side channel attack
->>>> * [(private)Review of Flush+Reload paper & Implementation of Flush+Reload attack (to gnupg-1.4.13)](https://github.com/leesk212/FLUSH-RELOAD-Attack-Implementation)
->>>> * [Review of Flush+Flush paper](https://leesk212.github.io/paper-Flush+Flush_A_Fast_and_Stealthy_Cache_Attack/)
->>>> * (private)Review of Meltdown paper & Implementation of Meltdown attack
->>>> * [(private)Review of ZombieLoad paper & Implementation of ZombieLoad attack](https://github.com/leesk212/ZombieLoad-Implementation)
->>>> * [(private)Quantitative Analysis on Attack Capacity in Meltdown-type Attacks](https://github.com/leesk212/Measurement_of_transient_instruction)  
->>>>   * [(private)Meltdown2Zombieload PoC](https://github.com/leesk212/Meltdown2Zombieload)
->>>>   * [(private)Result](https://github.com/leesk212/Result)
->>>>   * [(private)Paper work](https://github.com/leesk212/private_post/tree/master/Paperwork/Measurement%20of%20Transient%20instruction)
->>>>   * [(private)MTIC Proof-of-Concept](https://github.com/leesk212/MTIC)
->>> * National Security Research Project
->>>>   * [(private)tool-kit](https://github.com/taehunk/NSR-SMTP)
->>>>   * [(private)DNSlookup](https://github.com/leesk212/private_post/blob/master/NSR/Mail_service/DNSQUERYCODE)
->>>>   * [(private)TLSRPT](https://github.com/leesk212/TLSRPT)
->>> * 2021 HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회
->>>>   * [(private)2021-HAICon2021](https://github.com/leesk212/2021-HAICon2021)
->>> * ETC
->>>>   * [(private)zinc](https://github.com/taehunk/zinc)
->> - 2020/09/07 ~   
 
-</div></details>
 
 
 ## 📖  Solved.ac Stats
