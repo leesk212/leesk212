@@ -162,7 +162,7 @@
 
 # ETC
 * 온라인책 무료: <https://wikidocs.net/>
-
+* Google Developer Korea: <https://developers-kr.googleblog.com/>
 # Coding-Test
 * [sw expert academic (삼성)](https://swexpertacademy.com/main/capacityTest/main.do)
 # DeepLearning
