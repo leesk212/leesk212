@@ -17,7 +17,7 @@
 <h2 align="left">⚡ Interests</h2>  
 
 > - Microarchitecture side channel attack security
-> - A.I. Security
+> - A.I.
 > - Python 
 
 ## :books: Publication
