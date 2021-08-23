@@ -176,6 +176,7 @@
 # Coding-Test
 * [sw expert academic (삼성)](https://swexpertacademy.com/main/capacityTest/main.do)
 # DeepLearning
+* Batchsize vs Epoch in model fit <https://snowdeer.github.io/machine-learning/2018/01/11/keras-model-fit-options/>
 * <https://dacon.io/competitions/open/235698/overview/description>
 * <https://library.etri.re.kr/service/data/etri-insight/down.htm;jsessionid=AE9EF6025C1F7A3679BA5FC5C213C9A9?id=652>
 ## GAN
