@@ -1005,29 +1005,6 @@
                                                                                                                                                         <A HREF="http://www.postfix.org/postconf.5.html#smtp_tls_CAfile" ADD_DATE="1629955174" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABbUlEQVQ4jZWSEZTDQBCG//YVBg4ChcXFQCFwEAwcBAMHgYOFQqBwGAgUCoFCoLBQCBYCBwfFwMFCYTEYXDgIFBYKB3kv7aXv3t3NG5nZb+bNzj8Te7H4j01HcbJMfqmwFzu4EAJEQ6hOKt/mURQNsBBiMozkP/oWZEzbGePMmbsI+MI/7F7j1dphXL2XnsvlXs56uus6rbXIZLlJ1jvtMAbAtA2IHMYBaFWrDwtg1tNsznq6qEzfwrRNnoVJJgHITFw//Rc6L9trQfgUBpF426/jVTFkiyyMlymAupKMu/RAw9NMa+0YEz6nfhD3qfSFR8vUYbyupLVIt7U9X7WaAfiJdhwerwp7tqngwzKnnPPjIe97mLaxQL+WRqt+yGIdyr0cCxcEARGBKNmUyaYEUFSmqAwRyb28Ffeb0l4QjWh1UreAvdjxLdWVBKDqg2kbIvI8bwR8K9Dq6HuuvdjAI7mJzKfBvY2ObzTAvX8BtDEc9j3g+QoAAAAASUVORK5CYII=">Postfix Configuration Parameters</A>
             </DL>
             <p>
-                <DT>
-                    <H3 ADD_DATE="1604731979" LAST_MODIFIED="1604731979">먹고싶은것</H3>
-                    <DL>
-                        <p>
-                            <DT>
-                                <A HREF="https://m.youtube.com/watch?v=nYBoRfkRduw" ADD_DATE="1566469990">*찐텐주의* 솔로남의 야매 마라새우 리뷰 - YouTube</A>
-                            <DT>
-                                <A HREF="https://m.youtube.com/watch?v=SeVChPYurIc" ADD_DATE="1566470286">백종원 새마을식당 본점에가서 전메뉴 싹다 털어버렸습니다!!!ㅣ열탄불고기+7분김치찌개+열탄즉떡 - YouTube</A>
-                            <DT>
-                                <A HREF="https://m.youtube.com/watch?v=faO5TdCabtE" ADD_DATE="1566610728">초대박 가성비!!! 노브랜드버거에 가서 전메뉴 싹다 털어버렸습니다ㅣ1900원버거+소떡롤+피자바게트 - YouTube</A>
-                            <DT>
-                                <A HREF="https://m.youtube.com/watch?v=K_DUpCuZbVY" ADD_DATE="1566616431">*위꼴주의* 페북광고 오지는 소고기 무한리필집가서 배터지게 먹고왔습니다!ㅣ무한리필 - 몽블리 강남점 Mukbang Buffet - YouTube</A>
-                            <DT>
-                                <A HREF="https://m.youtube.com/watch?v=Gdbm1VEzs4s" ADD_DATE="1566616583">사장님 남는게 있어요? 학생 군인은 12900원 스테이크 무한리필 - YouTube</A>
-                            <DT>
-                                <A HREF="http://m.egloos.zum.com/b612/v/3211666" ADD_DATE="1569757134">나의 맘 속엔 나를 닮은 벌레가 살아</A>
-                            <DT>
-                                <A HREF="https://hashcode.co.kr/questions/1830/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%ED%81%90-%EC%99%80-%EC%8A%A4%ED%83%9D%EC%9D%98-%EC%8B%A4%EC%A0%9C-%EC%82%AC%EC%9A%A9%EC%98%88%EB%A5%BC-%EC%95%8C%EA%B3%A0%EC%8B%B6%EC%8A%B5%EB%8B%88%EB%8B%A4" ADD_DATE="1569757560">algorithm - [자료구조]큐 와 스택의 실제 사용예를 알고싶습니다!! | Hashcode</A>
-                            <DT>
-                                <A HREF="https://jeong-pro.tistory.com/m/95?category=793347" ADD_DATE="1569757789">객체 지향 프로그래밍이 뭔가요? (꼬리에 꼬리를 무는 질문 1순위, 그놈의 OOP)</A>
-                            <DT>
-                                <A HREF="https://jeong-pro.tistory.com/m/97?category=793347" ADD_DATE="1569757801">스택, 큐, 덱(Stack, queue, deque)의 특징에 대해 설명해보세요!</A>
-                    </DL>
                     <p>
                         <DT>
                             <H3 ADD_DATE="1604731979" LAST_MODIFIED="1604731979">연동</H3>
@@ -1053,45 +1030,6 @@
                                     <A HREF="https://m.naver.com/" ADD_DATE="1535885299" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAEKADAAQAAAABAAAAEAAAAAAXnVPIAAAAHGlET1QAAAACAAAAAAAAAAgAAAAoAAAACAAAAAgAAAFVVK+FaAAAASFJREFUOBGMjM1Kw1AQhW8y6KoFVyr4PD6BS622TY0i1GfqQtyKG9eCuBGRKlYt/mCotlUMSbWtlKT3ODNoqAvBSz7m5tzzjaHIDyneAE/LyPwP9tsJDb2x8LoOl5E5iWR/5dpj11Dbswyo41mXp3kuKXKndoWRrPw756467BoKyhDcoKRztlXF3NM2pgMPzmMRDuczrS3McyZvk125G7pnkTF3a8g9+HhJehiOR9iJjzB1W4DTXMJufKxZN4m1I93Mo5siBHO9inzTx4BlWP6sRbVTg6kvYr93Cjnv6VA70s08avAPYy5XkLuq4CP9VFkWiLDQ2EQtPNQsSvrakW7m0XkBgqkvI3/hoc8L5IzGic696AQH8Zku6KUD7Uj3x/sCAAD//zod5HwAAAEZSURBVI2OzU7CQBSFx96VSfsGvpBP4ALBSlv7TibuXbhwIxGCgiWo4B9790RjKghVaNrOce7V1C6d5ORMvn5nUkWPdXDUQw3Ok4eP/BNaa3TmE5zGY/BJi0w6yVfisFvuaNwAR412Yd/7mGWJPHD8NsTWXYj3bAkDhC2zlTjslju62QNHXdfhjAIsjMTnPJ5AXW7Dfz5EoQthX3kqDrvljgYuOCpqwB4eYLqeIcnXOHm9xUZvB3RVw9G0J+wlnYvDbrmj/j441m/bUQhnEGIzCoRZfde0K4y/VV2+K7poauo2wW2ZVl3zNxLzsHAPVc736kZRxwe1jdT+aZLmu28Yc0/uf7zimq2iVhCbgFqepjMz/E/YlU0QfwMAkI0MlpqBPAAAAABJRU5ErkJggg==">NAVER</A>
                                 <DT>
                                     <A HREF="https://sw.kw.ac.kr:501/administration/notice.php" ADD_DATE="1591674579">광운대학교 소프트웨어융합대학</A>
-                                <DT>
-                                    <A HREF="https://www.kw.ac.kr/ko/life/notice.jsp" ADD_DATE="1591674583" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACqElEQVQ4jW2Ty2udZRyEn/m9X05MYo/RpG2KMRcrlEahabyQVgQV3LkT46JF8S8QiyIiluJSIcWuu3DjShDciK50ow3ES9QmStPUJI1NaqOYepKenHO+d9zUUKWzG5iBYeARt9Gb9z7Ws100Dsh0GWXkGy6bv5xemf3z/1ndak7sf/S+KJvHbT2NOYC0BfkaqB98Hukrp+LDyYXpy/920k558NBhSs4A44h1UA28H2sDqCJNAa9Hzg+Nd++dO7dxdW1nwav9Yw8o+YOAe4ynIIZw/iSSf85lsSXKgw49j2khmjY9qfTL763MzBeAIvkkcMRQE1zJ5LPGG7lZBNHKZD6V/A2KF2ReAXJOeht4KZ0YHD0q6Th4UYoZKN+V01DAQYLOUPSQ4jAO7OKzCA/cnN4z3t13PgSjmE1QctaZMrS7zFq02Aq5lcWWsIrUmic1epXz+4ZNQwPpUFgaAEpDLgqWi1y0KhWWsZ7JViHn6+BhqW0tylRGkS4LbgB1YDBk34nIMrW6t7cBcqPcA/4+FCuJVBex2sh5FCDnaAB7gJEw1RAsYVcRvW1U9pZFXCsLHndb28fGRzP5qa3N+tlAYySvQ7MPU8dcsLUYGWZB7YKrzn6xutC1CtGu3Bo2rmN6O7s6HrTLmV2/3vWbHccsmgQdyD8VLju+UKr/Ybgf6P97aONb0A+2SORzJbqQc6sWVq4N/jVh9KwA7Iu57PgyTV1faY3fvW8p4ElgAXhCclXikjNVgRzRHtJztiYsXxKqZunk6eXpizssvDYwNmH5LcEVwx1ABbEbALOOKDDDoDU7vzO5PPPRf1j4emN19kh334+2xiX23Xy6H9gF/h0wxLzJb0wuz3x+WxoBTo2MVGqb7Q/bPCJpwFiYJYemq531707NzTVuzf8DwZlMd5nFLEsAAAAASUVORK5CYII=">광운대학교</A>
-                                <DT>
-                                    <A HREF="https://sites.google.com/view/icseclab/research-area" ADD_DATE="1599144501" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAO0lEQVQ4jWO0C9jyn4ECwESJ5sFhAAsy5+B6b6I02QdupZ4LGAc8FgiGAcy/yHJUDYOBN2DgY2HgDQAAiqkP5Qxq/nYAAAAASUVORK5CYII=">ICSLab - Research Area</A>
-                                <DT>
-                                    <A HREF="http://richtv365.com/" ADD_DATE="1600584849" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACbUlEQVQ4jUWTPYslRRiFn/N2973T9+6sOy4q7Ogqq6IirIEfoT9AUGQRA8HATCONBAP9AwYazmYLKm7gbGCuBsaCH5GiOCoqK8IseL/mdvV7DLpHk6KCes85deopzT5eXpi2OhB6JrCQhUE9QiDABsC9wGApMu1PC/1rdTvRAZP22bJe5aK3EiTADMvpvgk0q/5TjGraXonNutP5w2X2kqc1PLWn2GvCPUYg21SAED9v7K+OkzqtOpS2QM5aFSxOUi9ebLj6+ASwAAYrTrPQJbr+a+HNb4o3xYrKGKqwYV6hz28WfXazkIaSJm2++KtwtDB9QgAv39fw0r2hRUnF6BApmNbix4V9/bcyNDf6v/Ndx7WjjpDYjqKPng2QLA+HahIlpgHZQ2WSAPHAXDy8G4BpQgTiy797AmSARPVgJ4xxgiRkY5uDJ6dMAmxTR/D+D1s++qVwthGJsUQMccf3irE2g2T+KaaMomnz3H7NC3fXrDoT42VD/F/8NAZnMwy9/W3HB0cFEMXm0jx465GGM43INLIJB5ZM6fGdkwBEb2OL487c+L1HMhVDivt3g/15eNGZiHAEsOjh6TtCr1yqAVONLL7xUMM2zfGJqQLSpg1493Kje+bBSW8iEkrii/PwhTYsQS0jwWO3BcvOvPd9hw11CElcPld5dyJnb+n2w1UvoMM8OFfcNQ8LY6M/luanRVIJnjhfeb8NViX19S3nn2uYRqbO3VgeRju7wmadJyXVjYQJqAJ2NHzBVTH9AI93KjGdzVQ26w/rWzuzV/e2m4L0/E4TdSuf4i8bnMPUmUYDZpJRbPvN+pMs3ev/AhINSnaUxAZvAAAAAElFTkSuQmCC">리치티비-스포츠티비중계 해외축구중계사이트 mlb nba 실시간중계사이트</A>
-                                <DT>
-                                    <H3 ADD_DATE="1604731979" LAST_MODIFIED="1604731979">직업</H3>
-                                    <DL>
-                                        <p>
-                                            <DT>
-                                                <H3 ADD_DATE="1604731979" LAST_MODIFIED="1604731979">새 폴더</H3>
-                                                <DL>
-                                                    <p>
-                                                </DL>
-                                                <p>
-                                    </DL>
-                                    <p>
-                                        <DT>
-                                            <H3 ADD_DATE="1604731979" LAST_MODIFIED="1604731979">영어</H3>
-                                            <DL>
-                                                <p>
-                                            </DL>
-                                            <p>
-                                                <DT>
-                                                    <H3 ADD_DATE="1604731979" LAST_MODIFIED="1604731979">패션</H3>
-                                                    <DL>
-                                                        <p>
-                                                            <DT>
-                                                                <A HREF="https://m.raucohouse.com/product/detail.html?product_no=3102&cate_no=73&display_group=1" ADD_DATE="1572352550">N6 POCKET STRING PANTS - RAUCO HOUSE</A>
-                                                            <DT>
-                                                                <A HREF="http://m.sac-studio.com/product/mini-logo-turtle-neck-black/67/category/26/display/1/" ADD_DATE="1572457759">MINI LOGO TURTLE NECK BLACK - ＳＡＣ˚ STUDIO™</A>
-                                                    </DL>
-                                                    <p>
-                                                        <DT>
-                                                            <A HREF="http://m.huffpost.com/kr/" ADD_DATE="1399796187">허핑턴포스트코리아</A>
-                                                        <DT>
-                                                            <A HREF="https://m.cafe.naver.com/ca-fe/web/cafes/10050146/articles/764273083?menuid=749&query=%EC%95%A0%ED%94%8C%20%ED%8E%9C%EC%8A%AC&art=aW50ZXJuYWwtY2FmZS1hcnRpY2xlLXJlYWQtaW5DYWZlLXNlYXJjaC1saXN0.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjc2NDI3MzA4MywiaXNzdWVkQXQiOjE1OTI1MDg1MjUxODIsImNhZmVJZCI6MTAwNTAxNDZ9.hgE62Jh9IUqqOQQmSBJFl6osW8-bgWMBLiiHlJveoN4" ADD_DATE="1592508664" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAEKADAAQAAAABAAAAEAAAAAAXnVPIAAAAHGlET1QAAAACAAAAAAAAAAgAAAAoAAAACAAAAAgAAAEv5H8dSgAAAPtJREFUOBFiYDhuA0XHrBngCC4IZIAEwSREEKEaxLcGcpmP24EVWTEcAyOYOFQlTAOSSYcNmI7bcp5wYj/hyHbCAd1aKB9o9jFrRqDtR0yqH06/8vXuzW+PXvx6G3SjkuGwPlA/TJkNA8wGa9bj9kyHDaofzvgPA3e+PRY76cZ8zBqkAWQi2BUwG20YjpgxHNRKvt3W82Rp55PF2Xe7WIB+OKjFcNiA4agZI8QSoH/AGmwYjlpqn4+2v5JjeDFe70KM7oUY/QtxLlfzPK8V+V4vlTsTwHDEmOEY2GFAJzEBg+WQwbZ3x2BuQaEPfDh36tMVs4tJQD2Mx2wBAAAA//9ajfydAAABIUlEQVRFjz9Lw0Achn9N/AjiJxAFof4lUvFaNwddXQRnh07u7oI6urkILgoOxVU6NEnvDpXSQXArKIoOjYhbG++P7+VaDEful/A8771HJNZLokrpUiNraaOHOscbS2k10ENldLm7t/V8cN1vUjwXyg0iyQJRo3SxkcXgcv1rrPGPMgrD0dvFbRbXe6eUzAeyRjghxJaUD1/PrbVIdbQFqyEg4qp/V++dEF8F6VaxMeKVyfvNl8EnHF/JGoz27OOGWtOULJBgY0G6yV2jvTLT2Wl+P6AV0K/85/j9MuSVCcFcBS8Adp53JJyIeDTb3V172p963KYUwahRZBeM+/T0vwONR9ReRkl3RXBylFjMOMH98v1GSYGsAi3BdPHj5THJ/gDcPHWBX3VavQAAAABJRU5ErkJggg==">아이패드 프로 2세대 10.5인치 256GB Wifi + 애플 정품키보드 + 애플펜슬 1세대 : 네이버 카페</A>
-</DL>
 <p>
   
   
