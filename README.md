@@ -173,6 +173,7 @@
 # ETC
 * 온라인책 무료: <https://wikidocs.net/>
 * Google Developer Korea: <https://developers-kr.googleblog.com/>
+* 길벗: <http://book.interpark.com/book/genbookeventaction.do?_method=EventPlan&sc.evtNo=238595>
 # Security
 ## Mircro-architecture
 * 
