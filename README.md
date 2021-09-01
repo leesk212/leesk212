@@ -172,8 +172,6 @@
 * Google Developer Korea: <https://developers-kr.googleblog.com/>
 * 길벗: <http://book.interpark.com/book/genbookeventaction.do?_method=EventPlan&sc.evtNo=238595>
 # Security
-## Mircro-architecture
-* 
 # GPU Setting
 * <https://m.blog.naver.com/tyami/221801088922>
 * <https://m.blog.naver.com/ara96q/221829757416>
