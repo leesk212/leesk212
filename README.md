@@ -171,6 +171,7 @@
 * 온라인책 무료: <https://wikidocs.net/>
 * Google Developer Korea: <https://developers-kr.googleblog.com/>
 * 길벗: <http://book.interpark.com/book/genbookeventaction.do?_method=EventPlan&sc.evtNo=238595>
+* (상시확인)(7,8월) OSS contributor: <https://www.oss.kr/contribution_academy>  
 # Security
 # GPU Setting
 * <https://m.blog.naver.com/tyami/221801088922>
@@ -183,6 +184,7 @@
 * Batchsize vs Epoch in model fit <https://snowdeer.github.io/machine-learning/2018/01/11/keras-model-fit-options/>
 * <https://dacon.io/competitions/open/235698/overview/description>
 * <https://library.etri.re.kr/service/data/etri-insight/down.htm;jsessionid=AE9EF6025C1F7A3679BA5FC5C213C9A9?id=652>
+* pytorch: <https://tutorials.pytorch.kr/>
 ## GAN
 * <https://m.blog.naver.com/PostView.naver?blogId=euleekwon&logNo=221559102854&targetKeyword=&targetRecommendationCode=1>
 * <https://comlini8-8.tistory.com/9>
