@@ -152,18 +152,6 @@
 </div>
 
 
-## 📖  Solved.ac Stats
-<div align=center>
-<center>
-
-<a href="https://solved.ac/leesk212">
-  <img align="center" src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=leesk212" />
-</a>
-</center>
-</div>
-  
-
-
 ##
 
 <details><summary> 📑 Bookmark</summary><div markdown="1">
