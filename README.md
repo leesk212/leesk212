@@ -16,8 +16,9 @@
 --------------
 <h2 align="left">⚡ Interests</h2>  
 
-> - Microarchitectural side channel security
+> - Security
 > - A.I.
+> - Cloud Engineering
 > - Python 
 
 ## :books: Publication
