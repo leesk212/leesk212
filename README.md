@@ -155,7 +155,7 @@
 
 <p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=leesk212&theme=onedark&row=3&column=6)](https://github.com/leesk212)
+[![trophy](https://github-profile-trophy.vercel.app/?username=leesk212&theme=onedark&row=1&column=6)](https://github.com/leesk212)
 
 
 ##
