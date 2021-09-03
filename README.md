@@ -145,7 +145,7 @@
  
 <h2 align="left">💻 Github Stats</h2>
 
-<div align=left>
+<div align=center>
 <a href="https://colab.research.google.com/">
   <img src="https://github-readme-stats.vercel.app/api?username=leesk212&line_height=27&show_icons=true&hide_border=true&theme=dark" witdh="300" height="auto" />
 
