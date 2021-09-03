@@ -155,7 +155,11 @@
 
 <p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=leesk212&theme=onedark&row=1&column=6)](https://github.com/leesk212)
+<div align=center>
+  <a href="https://github.com/leesk212/">
+    <img src="https://github-profile-trophy.vercel.app/?username=leesk212&theme=onedark&row=1&column=6" />
+  </a>
+</div>
 
 
 ##
