@@ -149,7 +149,7 @@
 <a href="https://colab.research.google.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leesk212&line_height=27&show_icons=true&hide_border=true&theme=dark" />
 
-  <img src="http://commitcombo.com/get?user=leesk212&theme=DeepOcean-mini" width = "300" height = "27"/>
+  <img src="http://commitcombo.com/get?user=leesk212&theme=DeepOcean-mini" width = "300" height = "300"/>
 </a>
 </div>
 
