@@ -149,6 +149,14 @@
 <h2 align="left">💻 Github Stats</h2>
 
 <div align=center>
+  <a href="https://github.com/leesk212/">
+    <img src="https://github-profile-trophy.vercel.app/?username=leesk212&theme=onedark&row=1&column=6" />
+  </a>
+</div>
+
+<p>
+
+<div align=center>
 <a href="https://colab.research.google.com/">
   <img src="https://github-readme-stats.vercel.app/api?username=leesk212&line_height=27&show_icons=true&hide_border=true&theme=dark" witdh="300" height="auto" />
 
@@ -156,13 +164,8 @@
 </a>
 </div>
 
-<p>
 
-<div align=center>
-  <a href="https://github.com/leesk212/">
-    <img src="https://github-profile-trophy.vercel.app/?username=leesk212&theme=onedark&row=1&column=6" />
-  </a>
-</div>
+
 
 
 ##
