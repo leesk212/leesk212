@@ -11,6 +11,9 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/profile-of-seokmin-lee/)](https://www.linkedin.com/in/profile-of-seokmin-lee/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://leesk212.github.io/tags/)](https://leesk212.github.io/tags/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-d13232?logoWidth=15&logoColor=white&link=https://lace-saffron-66b.notion.site/Portfolio-9ebc7877d5ba462d934d2f187742c1bd)](https://lace-saffron-66b.notion.site/Portfolio-9ebc7877d5ba462d934d2f187742c1bd)  
+  
+  
 </div>
 
 --------------
