@@ -181,6 +181,7 @@
 # Security
 ## Microarchitectural elements
 * <https://uops.info/table_overview.html>
+* <https://www.cs.swarthmore.edu/~kwebb/cs31/s15/bucs/virtual_memory_is.html>
 # GPU Setting
 * <https://m.blog.naver.com/tyami/221801088922>
 * <https://m.blog.naver.com/ara96q/221829757416>
