@@ -163,7 +163,6 @@
 * 온라인책 무료: <https://wikidocs.net/>
 * Google Developer Korea: <https://developers-kr.googleblog.com/>
 * 길벗: <http://book.interpark.com/book/genbookeventaction.do?_method=EventPlan&sc.evtNo=238595>
-* (상시확인)(7,8월) OSS contributor: <https://www.oss.kr/contribution_academy>  
 * 이미지 로고: <https://icons8.com/icons/set/bash>
 # Security
 ## Microarchitectural elements
