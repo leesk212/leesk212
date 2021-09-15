@@ -175,11 +175,13 @@
 
 # Coding-Test
 * [sw expert academic (삼성)](https://swexpertacademy.com/main/capacityTest/main.do)
+* <https://rebas.kr/789>
 # DeepLearning
 * Batchsize vs Epoch in model fit <https://snowdeer.github.io/machine-learning/2018/01/11/keras-model-fit-options/>
 * <https://dacon.io/competitions/open/235698/overview/description>
 * <https://library.etri.re.kr/service/data/etri-insight/down.htm;jsessionid=AE9EF6025C1F7A3679BA5FC5C213C9A9?id=652>
 * pytorch: <https://tutorials.pytorch.kr/>
+  
 ## GAN
 * <https://m.blog.naver.com/PostView.naver?blogId=euleekwon&logNo=221559102854&targetKeyword=&targetRecommendationCode=1>
 * <https://comlini8-8.tistory.com/9>
