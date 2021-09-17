@@ -51,7 +51,11 @@
 
 
 <details><summary>🌱  Projects</summary><div markdown="1">
- 
+
+> * 광운대학교 운동 동작 분류 AI 경진대회 
+>> - Program: Dacon 
+>> - Project: 
+>>> * [(private)2021-KWU_Hackerton](https://github.com/leesk212/2021-KWU_Hackerton) 
 > * 2021 HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회
 >> - Program: Dacon 
 >> - Project: 
