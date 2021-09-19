@@ -168,6 +168,7 @@
 * Google Developer Korea: <https://developers-kr.googleblog.com/>
 * 길벗: <http://book.interpark.com/book/genbookeventaction.do?_method=EventPlan&sc.evtNo=238595>
 * 이미지 로고: <https://icons8.com/icons/set/bash>
+* 면접: <https://gyoogle.dev/blog/>
 # Security
 ## Microarchitectural elements
 * <https://uops.info/table_overview.html>
