@@ -56,7 +56,7 @@
 >> - Program: Dacon 
 >> - Project: 
 >>> * [(private)2021-KWU_Hackerton](https://github.com/leesk212/2021-KWU_Hackerton) 
-> * 2021 HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회
+> * [2021 HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회](https://dacon.io/competitions/official/235757/leaderboard)
 >> - Program: Dacon 
 >> - Project: 
 >>> * [(private)2021-HAICon2021](https://github.com/leesk212/2021-HAICon2021)
