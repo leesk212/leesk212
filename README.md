@@ -170,6 +170,7 @@
 * 이미지 로고: <https://icons8.com/icons/set/bash>
 * 면접: <https://gyoogle.dev/blog/>
 * Github Campus Experts:(2월,8월) <https://github.com/gce-korea> 
+* Google Trend: <https://trends.google.com/trends/trendingsearches/daily?geo=KR>
 # Security
 ## Microarchitectural elements
 * <https://uops.info/table_overview.html>
