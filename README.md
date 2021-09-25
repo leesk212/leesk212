@@ -183,6 +183,10 @@
 # Coding-Test
 * [sw expert academic (삼성)](https://swexpertacademy.com/main/capacityTest/main.do)
 * <https://rebas.kr/789>
+* https://code.plus/bundle/6
+* https://www.acmicpc.net/workbook/top
+* https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
+  
 # DeepLearning
 * Batchsize vs Epoch in model fit <https://snowdeer.github.io/machine-learning/2018/01/11/keras-model-fit-options/>
 * <https://dacon.io/competitions/open/235698/overview/description>
