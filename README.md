@@ -193,6 +193,7 @@
 * <https://library.etri.re.kr/service/data/etri-insight/down.htm;jsessionid=AE9EF6025C1F7A3679BA5FC5C213C9A9?id=652>
 * <https://dacon.io/competitions/official/235815/data>  
 * pytorch: <https://tutorials.pytorch.kr/>
+* elice nipa 자격증 교육: <https://2021nipa.elice.io/explore>
   
 ## GAN
 * <https://m.blog.naver.com/PostView.naver?blogId=euleekwon&logNo=221559102854&targetKeyword=&targetRecommendationCode=1>
