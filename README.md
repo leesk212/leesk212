@@ -193,7 +193,8 @@
 * <https://library.etri.re.kr/service/data/etri-insight/down.htm;jsessionid=AE9EF6025C1F7A3679BA5FC5C213C9A9?id=652>
 * <https://dacon.io/competitions/official/235815/data>  
 * pytorch: <https://tutorials.pytorch.kr/>
-* elice nipa 자격증 교육: <https://2021nipa.elice.io/explore>
+* elice nipa 자격증 교육: <https://2021nipa.elice.io/explore>\
+* Auto ML이란?: <https://medium.com/daria-blog/automl-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-1af227af2075>
   
 ## GAN
 * <https://m.blog.naver.com/PostView.naver?blogId=euleekwon&logNo=221559102854&targetKeyword=&targetRecommendationCode=1>
