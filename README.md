@@ -16,7 +16,6 @@
 > - Security
 > - A.I.
 > - Cloud Engineering
-> - Python 
 
 ## :books: Publication
 ### Scopus
