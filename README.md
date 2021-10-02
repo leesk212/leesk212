@@ -171,6 +171,7 @@
 * 면접: <https://gyoogle.dev/blog/>
 * Github Campus Experts:(2월,8월) <https://github.com/gce-korea> 
 * Google Trend: <https://trends.google.com/trends/trendingsearches/daily?geo=KR>
+* 영문법검사: https://app.grammarly.com/
 # Security
 ## Microarchitectural elements
 * <https://uops.info/table_overview.html>
