@@ -176,6 +176,8 @@
 ## Microarchitectural elements
 * <https://uops.info/table_overview.html>
 * <https://www.cs.swarthmore.edu/~kwebb/cs31/s15/bucs/virtual_memory_is.html>
+* <mm.txt>
+* <https://stackoverflow.com/questions/25852367/x86-64-canonical-address>
 # GPU Setting
 * <https://m.blog.naver.com/tyami/221801088922>
 * <https://m.blog.naver.com/ara96q/221829757416>
