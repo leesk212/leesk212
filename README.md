@@ -198,6 +198,7 @@
 * pytorch: <https://tutorials.pytorch.kr/>
 * elice nipa 자격증 교육: <https://2021nipa.elice.io/explore>\
 * Auto ML이란?: <https://medium.com/daria-blog/automl-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-1af227af2075>
+* <https://paperswithcode.com/>
   
 ## GAN
 * <https://m.blog.naver.com/PostView.naver?blogId=euleekwon&logNo=221559102854&targetKeyword=&targetRecommendationCode=1>
