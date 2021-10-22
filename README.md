@@ -162,6 +162,7 @@
 ##
 
 <details><summary> 📰 News Scrap</summary><div markdown="1">
+  
 * 보안 자격증 관련 생각: <https://www.boannews.com/media/view.asp?idx=101572>
   
 </div></details>
