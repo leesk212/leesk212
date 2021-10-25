@@ -162,9 +162,11 @@
 ##
 
 <details><summary> 📰 News Scrap</summary><div markdown="1">
-  
+
+## 
+
 * 보안 자격증 관련 생각: <https://www.boannews.com/media/view.asp?idx=101572>
-  
+* 삼성SDS 기업보고서, 어떤 사람을 뽑을 것인가? <https://post.naver.com/viewer/postView.naver?volumeNo=32605627&memberNo=9028903&vType=VERTICAL>  
 </div></details>
   
 
