@@ -76,6 +76,7 @@
 >>>>   * [(private)MTIC Proof-of-Concept](https://github.com/leesk212/MTIC)
 >>>> * [(private)AMD-Meltdown](https://github.com/leesk212/AMD_Meltdown)
 >>>> * [(private)New_Cache_covert_channel](https://github.com/leesk212/Reload-Reload)
+>>>> * [(private)AMD-Spectre](https://github.com/leesk212/AMD_Spectre)
 >>> * National Security Research Project
 >>>>   * [(private)tool-kit](https://github.com/taehunk/NSR-SMTP)
 >>>>   * [(private)DNSlookup](https://github.com/leesk212/private_post/blob/master/NSR/Mail_service/DNSQUERYCODE)
