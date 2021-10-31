@@ -2,7 +2,7 @@
 <a href="https://github.com/leesk212">
   <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesk212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=freebsd.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </a>
-<p>
+
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/profile-of-seokmin-lee/)](https://www.linkedin.com/in/profile-of-seokmin-lee/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://leesk212.github.io/tags/)](https://leesk212.github.io/tags/)
