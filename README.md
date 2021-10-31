@@ -6,7 +6,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/profile-of-seokmin-lee/)](https://www.linkedin.com/in/profile-of-seokmin-lee/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://leesk212.github.io/tags/)](https://leesk212.github.io/tags/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-d13232?logoWidth=15&logoColor=white&link=https://github.com/leesk212/Kwangwoon_univ_all)](https://github.com/leesk212/Kwangwoon_univ_all) <br> [![Google Scholar Badge](https://img.shields.io/badge/-Scholar-4285f4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=Mu0zFI4AAAAJ&hl=en)](https://scholar.google.co.kr/citations?user=Mu0zFI4AAAAJ&hl=en)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-d13232?logoWidth=15&logoColor=white&link=https://github.com/leesk212/Kwangwoon_univ_all)](https://github.com/leesk212/Kwangwoon_univ_all)  [![Google Scholar Badge](https://img.shields.io/badge/-Scholar-4285f4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=Mu0zFI4AAAAJ&hl=en)](https://scholar.google.co.kr/citations?user=Mu0zFI4AAAAJ&hl=en)
 
   
 </div>
