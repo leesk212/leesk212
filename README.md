@@ -19,7 +19,7 @@
 
 ## :books: Publication
 ### Scopus
-* [[Link](https://wisa.or.kr/accepted)] __Seokmin Lee__, Taehun Kim and Youngjoo Shin, "Quantitative Analysis on Attack Capacity in Meltdown-type Attacks," The 22nd World Conference on Information Security Applications (WISA), August, 11-13, 2021, Jeju, South Korea
+* [[Link](https://link.springer.com/chapter/10.1007/978-3-030-89432-0_18)] __Seokmin Lee__, Taehun Kim and Youngjoo Shin, "Quantitative Analysis on Attack Capacity in Meltdown-type Attacks," The 22nd World Conference on Information Security Applications (WISA), August, 11-13, 2021, Jeju, South Korea
 ### Domestic Conference
 * [[Link](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10591570&mark=0&useDate=&bookmarkCnt=0&ipRange=N&accessgl=Y&language=ko_KR)] 백재우, __이석민__, 이영준, 이호찬, 박철수 “Automatic Sleep Stage Classifier using Inception Network and Recurrent Neural Network based on EEG single channel”, 대한전자공학회 하계학술대회, 제주, 2021.06
 
