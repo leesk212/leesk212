@@ -186,6 +186,7 @@
 * 영문법검사: https://app.grammarly.com/
 # Security
 ## Microarchitectural elements
+* <https://www.lazenca.net/pages/viewpage.action?pageId=25624857>
 * <https://uops.info/table_overview.html>
 * <https://www.cs.swarthmore.edu/~kwebb/cs31/s15/bucs/virtual_memory_is.html>
 * <https://www.kernel.org/doc/Documentation/x86/x86_64/mm.txt>
