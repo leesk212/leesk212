@@ -19,7 +19,7 @@
 
 ## :books: Publication
 ### Journal
-* [[Link](https://link.springer.com/chapter/10.1007/978-3-030-89432-0_18)] Lee Seokmin, Taehun Kim, and Youngjoo Shin. "Quantitative Analysis on Attack Capacity in Meltdown-Type Attacks." International Conference on Information Security Applications. Springer, Cham, 2021.
+* [[Link](https://link.springer.com/chapter/10.1007/978-3-030-89432-0_18)] __Lee Seokmin__, Taehun Kim, and Youngjoo Shin. "Quantitative Analysis on Attack Capacity in Meltdown-Type Attacks." International Conference on Information Security Applications. Springer, Cham, 2021.
 
 ### Conference
 #### Scopus
