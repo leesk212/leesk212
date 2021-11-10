@@ -167,7 +167,8 @@
 ## 
 
 * 보안 자격증 관련 생각: <https://www.boannews.com/media/view.asp?idx=101572>
-* 삼성SDS 기업보고서, 어떤 사람을 뽑을 것인가? <https://post.naver.com/viewer/postView.naver?volumeNo=32605627&memberNo=9028903&vType=VERTICAL>  
+* 삼성SDS 기업보고서, 어떤 사람을 뽑을 것인가? <https://post.naver.com/viewer/postView.naver?volumeNo=32605627&memberNo=9028903&vType=VERTICAL> 
+* 파이썬으로 진행하는 기업 보안: <https://www.samsungsds.com/kr/story/wch_cloud210924.html?moreCnt=0&backTypeId=story&category=all>
 </div></details>
   
 
