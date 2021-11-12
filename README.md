@@ -31,7 +31,7 @@
 * [[Link](https://link.springer.com/chapter/10.1007/978-3-030-89432-0_18)] __Seokmin Lee__, Taehun Kim, and Youngjoo Shin. "Quantitative Analysis on Attack Capacity in Meltdown-Type Attacks." International Conference on Information Security Applications. Springer, Cham, 2021.
 
 ### Software Copyright
-* __이석민__, 신영주, "Intel CPU 대상 Meltdown 유형 공격을 활용한 정량적 공격 수용력 측정 프로그램", 한국 저작권 위원회, 2021.11 (출원번호: 제 C-2021-046905)
+* __이석민__, 신영주, "Intel CPU 대상 Meltdown 유형 공격을 활용한 정량적 공격 수용력 측정 프로그램", 한국 저작권 위원회, 2021.11 (출원번호: 제 C-2021-046905 호)
 * __이석민__, 안유림, 신영주, "공격 탐지 알림 프로그램". 한국 저작권 위원회, 2020.11 (출원번호: 제 C-2020-041988 호) 
 
 <h2 align="left"> 🔭 Profile</h2>
