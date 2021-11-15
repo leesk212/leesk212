@@ -210,6 +210,8 @@
 * <https://m.blog.naver.com/tyami/221801088922>
 * <https://m.blog.naver.com/ara96q/221829757416>
 * <https://chancoding.tistory.com/89>
+# GPU Computing (CUDA)
+* 개념잡기: https://karl6885.github.io/cuda/2018/11/08/NVIDIA-CUDA-tutorial-1/
 
 # Coding-Test
 * [sw expert academic (삼성)](https://swexpertacademy.com/main/capacityTest/main.do)
