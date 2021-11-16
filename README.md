@@ -195,8 +195,9 @@
 * 면접: <https://gyoogle.dev/blog/>
 * Github Campus Experts:(2월,8월) <https://github.com/gce-korea> 
 * Google Trend: <https://trends.google.com/trends/trendingsearches/daily?geo=KR>
-* 영문법검사: https://app.grammarly.com/
-* 윈도우key 학교계정 발급: https://cjekjy.tistory.com/17
+* 영문법검사: <https://app.grammarly.com/>
+* 윈도우key 학교계정 발급: <https://cjekjy.tistory.com/17>
+* 개발 자소서 잘 쓰는법: <https://sohyunwriter.tistory.com/123?fbclid=IwAR05B9f9BlGW4pYevj_o08NfSr-PpJpLd0k1itrVK5q8z-qCeLYmD1DwFRQ>
 # Security
 ## Microarchitectural elements
 * <https://www.lazenca.net/pages/viewpage.action?pageId=25624857>
