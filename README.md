@@ -216,6 +216,7 @@
 * 개념잡기: https://karl6885.github.io/cuda/2018/11/08/NVIDIA-CUDA-tutorial-1/
 * <https://www.slideshare.net/EdisonLee1/cuda-moducon2018>
 * <https://www.uio.no/studier/emner/matnat/ifi/IN5050/h18/undervisningsmaterialet/in5050-simd.pdf>  
+* GPU의 역사: <https://89douner.tistory.com/159>
 
 # Coding-Test
 * [sw expert academic (삼성)](https://swexpertacademy.com/main/capacityTest/main.do)
