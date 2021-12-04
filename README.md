@@ -219,6 +219,9 @@
 * <https://www.uio.no/studier/emner/matnat/ifi/IN5050/h18/undervisningsmaterialet/in5050-simd.pdf>  
 * GPU의 역사: <https://89douner.tistory.com/159>
 
+# Cloud Engineering
+* [GCP](https://lifeoncloud.kr/featured/)
+  
 # Coding-Test
 * [sw expert academic (삼성)](https://swexpertacademy.com/main/capacityTest/main.do)
 * <https://rebas.kr/789>
