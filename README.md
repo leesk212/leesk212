@@ -11,9 +11,9 @@
   
 </div>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript">
 <div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="profile-of-seokmin-lee" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/profile-of-seokmin-lee?trk=profile-badge">Seokmin Lee</a></div>
+</script>
               
 
 <h2 align="left">⚡ Interests</h2>  
