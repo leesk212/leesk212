@@ -8,9 +8,6 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://leesk212.github.io/tags/)](https://leesk212.github.io/tags/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-d13232?logoWidth=15&logoColor=white&link=https://github.com/leesk212/Kwangwoon_univ_all)](https://github.com/leesk212/Kwangwoon_univ_all)  [![Google Scholar Badge](https://img.shields.io/badge/-Scholar-4285f4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=Mu0zFI4AAAAJ&hl=en)](https://scholar.google.co.kr/citations?user=Mu0zFI4AAAAJ&hl=en)
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="profile-of-seokmin-lee" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/profile-of-seokmin-lee?trk=profile-badge">Seokmin Lee</a></div>
-              
 </div>
 
 
