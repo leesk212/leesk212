@@ -203,6 +203,13 @@
 * 개발 자소서 잘 쓰는법: <https://sohyunwriter.tistory.com/123?fbclid=IwAR05B9f9BlGW4pYevj_o08NfSr-PpJpLd0k1itrVK5q8z-qCeLYmD1DwFRQ>
 * 인프런 정보보안 입문 무료강의: <https://www.inflearn.com/course/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%9E%85%EB%AC%B8>
 # Security
+
+## OSCP (Offensive Security Certified Professional자격증 준비 
+* 실무위주의 자격증(기본적인 모의 침투 테스트의 방법)
+* Big Overview : <https://blog.sunggwanchoi.com/kor-oscp-review/>
+* 생각보다 준비하는 사람들이 많은 것 같다.: <https://takudaddy.tistory.com/category/OSCP%20%EC%A4%80%EB%B9%84/OSCP%20%EA%B3%B5%EB%B6%80%EC%9D%BC%EC%A7%80?page=1>  
+  
+
 ## Microarchitectural elements
 * <https://www.lazenca.net/pages/viewpage.action?pageId=25624857>
 * <https://linux-kernel-labs.github.io/refs/heads/master/labs/memory_mapping.html>
