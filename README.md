@@ -208,7 +208,7 @@
 * 실무위주의 자격증(기본적인 모의 침투 테스트의 방법)
 * Big Overview : <https://blog.sunggwanchoi.com/kor-oscp-review/>
 * 생각보다 준비하는 사람들이 많은 것 같다.: <https://takudaddy.tistory.com/category/OSCP%20%EC%A4%80%EB%B9%84/OSCP%20%EA%B3%B5%EB%B6%80%EC%9D%BC%EC%A7%80?page=1>  
-  
+* OSCP 시험 준비: <https://myreversing.tistory.com/201>  
 
 ## Microarchitectural elements
 * <https://www.lazenca.net/pages/viewpage.action?pageId=25624857>
