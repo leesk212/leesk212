@@ -200,7 +200,8 @@
 * 윈도우key 학교계정 발급: <https://cjekjy.tistory.com/17>
 * 개발 자소서 잘 쓰는법: <https://sohyunwriter.tistory.com/123?fbclid=IwAR05B9f9BlGW4pYevj_o08NfSr-PpJpLd0k1itrVK5q8z-qCeLYmD1DwFRQ>
 * 인프런 정보보안 입문 무료강의: <https://www.inflearn.com/course/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88-%EC%BB%A4%EB%A6%AC%EC%96%B4-%EC%9E%85%EB%AC%B8>
-  
+* <http://ksc2021.kiise.or.kr/wp/Home.asp>
+
 # Security
 
 ## OSCP (Offensive Security Certified Professional자격증 준비 
