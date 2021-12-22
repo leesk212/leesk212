@@ -204,6 +204,9 @@
 
 # Security
 
+## Education
+* KISEC: <https://www.kisec.com/home>
+  
 ## OSCP (Offensive Security Certified Professional자격증 준비 
 * 실무위주의 자격증(기본적인 모의 침투 테스트의 방법)
 * Big Overview : <https://blog.sunggwanchoi.com/kor-oscp-review/>
