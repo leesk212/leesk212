@@ -214,6 +214,7 @@
 * OSCP 시험 준비: <https://myreversing.tistory.com/201>  
 
 ## Microarchitectural elements
+* agner fog's blog: <https://www.agner.org/forum/viewforum.php?f=1>
 * <https://www.lazenca.net/pages/viewpage.action?pageId=25624857>
 * <https://linux-kernel-labs.github.io/refs/heads/master/labs/memory_mapping.html>
 * <https://uops.info/table_overview.html>
