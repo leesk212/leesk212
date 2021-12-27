@@ -215,6 +215,7 @@
 
 ## Microarchitectural elements
 * agner fog's blog: <https://www.agner.org/forum/viewforum.php?f=1>
+  * agner fog's software development: <https://www.agner.org/optimize/#testp>
 * <https://www.lazenca.net/pages/viewpage.action?pageId=25624857>
 * <https://linux-kernel-labs.github.io/refs/heads/master/labs/memory_mapping.html>
 * <https://uops.info/table_overview.html>
