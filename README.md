@@ -204,6 +204,10 @@
 
 # Security
 
+## Blockchain
+* 김승주 교수님 블록체인과 암호화폐 교육자료: <https://blog.naver.com/amhoin/222593482310>
+  
+  
 ## Education
 * KISEC: <https://www.kisec.com/home>
   
