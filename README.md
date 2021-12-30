@@ -1,4 +1,5 @@
 Hello, I am a master's student in the Department of Convergence Security (Samsung Advanced Security) at Korea University.
+<br>
 After graduation, I am reserved as a security developer member of Samsung SDS.
 
 <div align=left>
