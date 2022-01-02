@@ -1,6 +1,6 @@
 Hello, I am a master's student in the Department of Convergence Security (Samsung Advanced Security) at Korea University.
 <br>
-After graduation, I am expected as a security developer member of Samsung SDS.
+After graduation, I am expected as a security developer or researcher member of Samsung SDS.
 
 <div align=left>
 <a href="https://github.com/leesk212">
