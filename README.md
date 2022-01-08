@@ -243,6 +243,9 @@ After graduation, I am expected as a security developer or researcher member of 
 * <https://www.uio.no/studier/emner/matnat/ifi/IN5050/h18/undervisningsmaterialet/in5050-simd.pdf>  
 * GPU의 역사: <https://89douner.tistory.com/159>
 
+## GPUDirect 
+* Case Implementation : <https://hpcadvisorycouncil.atlassian.net/wiki/spaces/HPCWORKS/pages/2791440385/GPUDirect+Benchmarking>
+
 # Cloud Engineering
 * [GCP](https://lifeoncloud.kr/featured/)
 * 클라우드 (보안) (엔지니어릴) 입문 시작하기 : <https://brunch.co.kr/@topasvga/634>
