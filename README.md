@@ -18,7 +18,7 @@ After graduation, I am expected as a security developer or researcher member of 
 > - A.I.
 > - Cloud Engineering
 
-## :books: Publication
+## :books: Publication & Award
 
 ### Conference
 #### Scopus
