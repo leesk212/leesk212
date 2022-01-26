@@ -213,6 +213,10 @@ After graduation, I am expected as a security developer or researcher member of 
 
 # Security
 
+## CVE
+* NVIDIA_CVE: <https://www.nvidia.com/en-us/security/>
+  
+  
 ## Blockchain
 * 김승주 교수님 블록체인과 암호화폐 교육자료: <https://blog.naver.com/amhoin/222593482310>
   
