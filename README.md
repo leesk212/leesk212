@@ -210,6 +210,7 @@ After graduation, I am expected as a security developer or researcher member of 
 * Ubuntu vmdk or vdi: <https://www.linuxvmimages.com/images/ubuntu-1604>
 * Github Toc Generator: <https://ecotrust-canada.github.io/markdown-toc/>
 * 소켓통신 윤성우 코드 자료: <https://www.orentec.co.kr/jaryosil/TCP_IP_1/add_form.php>
+* 좋은 코딩 방법이란? : <https://brunch.co.kr/@neverlish/21>
 
 # Security
 
