@@ -15,7 +15,7 @@
 
 </div>
 
-<details><summary>🌱  Skills</summary><div markdown="1">
+## 🌱  Skills
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="40" height="40"/> 
@@ -26,7 +26,7 @@
 <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </p>
   
-##### Studying
+### Studying
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="tensorflow" width="40" height="40"/> 
@@ -39,9 +39,6 @@
 
 
 
-
-
-##
 
 <details><summary> 📰 News Scrap</summary><div markdown="1">
 
