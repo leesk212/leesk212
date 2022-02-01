@@ -1,3 +1,9 @@
+[![hitbox](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesk212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=freebsd.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/leesk212/Kwangwoon_univ_all) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/profile-of-seokmin-lee/)](https://www.linkedin.com/in/profile-of-seokmin-lee/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://leesk212.github.io/tags/)](https://leesk212.github.io/tags/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-d13232?logoWidth=15&logoColor=white&link=https://github.com/leesk212/Kwangwoon_univ_all)](https://npsw.kw.ac.kr/site/portfolio_detail.php?idx=31&department=%EC%BB%B4%ED%93%A8%ED%84%B0%EC%A0%95%EB%B3%B4%EA%B3%B5%ED%95%99%EB%B6%80&scool_year=)  [![Google Scholar Badge](https://img.shields.io/badge/-Scholar-4285f4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=Mu0zFI4AAAAJ&hl=en)](https://scholar.google.co.kr/citations?user=Mu0zFI4AAAAJ&hl=en)
+
+
 <h2 align="left">💻 Github Stats</h2>
 
 <div align=center>
@@ -5,42 +11,23 @@
   <img src="https://github-readme-stats.vercel.app/api?username=leesk212&line_height=27&show_icons=true&hide_border=true&theme=dark" witdh="300" height="auto" />
     <img src="http://commitcombo.com/get?user=leesk212&theme=DeepOcean-mini" width = "320" height = "auto"/>
 </a>
-</div>
-
-
-[![hitbox](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesk212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=freebsd.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/leesk212/Kwangwoon_univ_all) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/profile-of-seokmin-lee/)](https://www.linkedin.com/in/profile-of-seokmin-lee/)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://leesk212.github.io/tags/)](https://leesk212.github.io/tags/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-d13232?logoWidth=15&logoColor=white&link=https://github.com/leesk212/Kwangwoon_univ_all)](https://npsw.kw.ac.kr/site/portfolio_detail.php?idx=31&department=%EC%BB%B4%ED%93%A8%ED%84%B0%EC%A0%95%EB%B3%B4%EA%B3%B5%ED%95%99%EB%B6%80&scool_year=)  [![Google Scholar Badge](https://img.shields.io/badge/-Scholar-4285f4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=Mu0zFI4AAAAJ&hl=en)](https://scholar.google.co.kr/citations?user=Mu0zFI4AAAAJ&hl=en)
-
-</div>
-
-<deteails><summary> 🌱  Skills </summary><div markdown="1">
-<p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="tensorflow" width="40" height="40"/> 
-</p>
   
-### Studying
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="tensorflow" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="tensorflow" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="tensorflow" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="tensorflow" width="40" height="40"/>
-</p>
- 
-</div><details>
+  
+</div>
 
 
 
 
-<details><summary> 📰 News Scrap</summary><div markdown="1">
+</div>
+
+
+
+
+##
+
+<details><summary> 📑 Bookmark</summary><div markdown="2">
+
+  <details><summary> 📰 News Scrap</summary><div markdown="1">
 
 ## 
 
@@ -49,11 +36,7 @@
 * 파이썬으로 진행하는 기업 보안: <https://www.samsungsds.com/kr/story/wch_cloud210924.html?moreCnt=0&backTypeId=story&category=all>
 </div></details>
   
-
-##
-
-<details><summary> 📑 Bookmark</summary><div markdown="1">
-
+  
 # ETC
 * 온라인책 무료: <https://wikidocs.net/>
 * Google Developer Korea:(6~8월) <https://developers-kr.googleblog.com/>
