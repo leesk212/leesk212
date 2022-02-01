@@ -14,16 +14,13 @@
 </div>
   
 
-<h2 align="left">💻 Github Stats</h2>
-
 <div align=center>
 <a href="https://github.com/leesk212/leesk212.github.io">
   <img src="https://github-readme-stats.vercel.app/api?username=leesk212&line_height=27&show_icons=true&hide_border=true&theme=dark" witdh="300" height="auto" />
     <img src="http://commitcombo.com/get?user=leesk212&theme=DeepOcean-mini" width = "320" height = "auto"/>
 </a>
   
-  
-</div>
+ 
 
 
 
