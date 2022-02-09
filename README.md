@@ -91,6 +91,8 @@
 * <https://www.kernel.org/doc/Documentation/x86/x86_64/mm.txt>
 * <https://stackoverflow.com/questions/25852367/x86-64-canonical-address>
 * Mastik: <https://cs.adelaide.edu.au/~yval/Mastik/>
+* Intel CPU Listing: <https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures#cite_note-17>    
+    
 # GPU Setting
 * <https://m.blog.naver.com/tyami/221801088922>
 * <https://m.blog.naver.com/ara96q/221829757416>
