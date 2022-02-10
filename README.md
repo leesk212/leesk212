@@ -107,6 +107,7 @@
 ## GPUDirect 
 * Case Implementation : <https://hpcadvisorycouncil.atlassian.net/wiki/spaces/HPCWORKS/pages/2791440385/GPUDirect+Benchmarking>
 * GPU/GPGPU: <https://mkblog.co.kr/category/research_study/gpusresearch/>
+* GPU: <http://mug.mvapich.cse.ohio-state.edu/static/media/mug/presentations/17/nvidia-mug-17.pdf>    
 
 # Cloud Engineering
 * [GCP](https://lifeoncloud.kr/featured/)
