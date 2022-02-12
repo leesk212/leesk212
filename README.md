@@ -144,7 +144,7 @@
   * <https://devlopr.netlify.app/#/>
   * <https://luxedo.github.io/jekyll-theme-potato-hacker/>
   * <https://janczizikow.github.io/sleek/>
-  * <https://taylantatli.github.io/Moon/>
+  * <https://taylantatli.github.io/Moon/> now
   
   
   
