@@ -11,6 +11,8 @@
   <img src="./asset/img/blog.png" width="130%" />
 </a>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leesk212)](https://solved.ac/leesk212/)
+<img src="http://mazandi.herokuapp.com/api?handle=leesk212&theme=cold"/> <a href="https://instagram.com/leesk212">
 
   
 <br>  
