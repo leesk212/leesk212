@@ -1,15 +1,3 @@
-<div align=center>
-
-[![hitbox](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesk212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=freebsd.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/leesk212/Kwangwoon_univ_all) 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://leesk212.github.io/tags/)](https://leesk212.github.io/)
-[![Google Scholar Badge](https://img.shields.io/badge/-Scholar-4285f4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=Mu0zFI4AAAAJ&hl=en)](https://scholar.google.com/citations?user=g6AclT4AAAAJ&hl=ko)
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leesk212)](https://solved.ac/leesk212/)
-<img src="http://mazandi.herokuapp.com/api?handle=leesk212&theme=cold"/> <a href="https://instagram.com/leesk212">
-
-
-</div>
   
 <a href="https://leesk212.github.io/">
   <img src="./asset/img/blog.png" width="130%" />
